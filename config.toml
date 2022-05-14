@@ -1,0 +1,45 @@
+# The URL the site will be built for
+base_url = "https://ilearnt.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+taxonomies = [
+  # {name = "tags", feed = true}, # each tag will have its own feed
+  {name = "tags"}, # you can have taxonomies with the same name in multiple languages
+  {name = "categories", paginate_by = 5},  # 5 items per page for a term
+  {name = "authors"}, # Basic definition: no feed or pagination
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+navbar_items = [
+ { code = "en", nav_items = [
+  { url = "$BASE_URL/", name = "Home" },
+  { url = "$BASE_URL/posts", name = "Posts" },
+#  { url = "$BASE_URL/docs", name = "Docs" },
+#  { url = "$BASE_URL/tags", name = "Tags" },
+  { url = "$BASE_URL/categories", name = "Categories" },
+ ]},
+]
+
+toc = true
+
+[extra.favicon]
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+
+[extra.social]
+# email = "mark@ilearnt.com"
+
+[extra.author]
+name = "Mark Rainey"
+
