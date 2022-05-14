@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://ilearnt.com"
 
+title = "I Learnt"
+description = "Things I have learnt over time ..."
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
