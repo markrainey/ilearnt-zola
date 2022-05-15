@@ -2,7 +2,7 @@
 title="Building a collection of habits"
 date=2022-05-14
 [taxonomies]
-categories=["life"]
+categories=["life", "podcast"]
 tags=[]
 
 +++

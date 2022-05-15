@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Is the level too hard?</title>
+            <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/istheleveltoohard/</link>
+            <guid>https://ilearnt.com/posts/istheleveltoohard/</guid>
+            <description>&lt;p&gt;I have been interested in the use of gamification to achieve things for a while. Given my son’s love of the Xbox I have also wondered if it could be used in some way to help him study.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Building a collection of habits</title>
             <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
@@ -25,6 +33,16 @@
 &lt;blockquote&gt;
 &lt;p&gt;Here&#x27;s a tip that my remote team does - When you get up in the morning, if you&#x27;re willing and able, try COMMUTING to your home office! Go for a circle around your neighbourhood and arrive back home to your home&#x2F;remote office! It psychologically marks the start and end of the day.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
+</description>
+        </item>
+        <item>
+            <title></title>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/newpost/</link>
+            <guid>https://ilearnt.com/posts/newpost/</guid>
+            <description>&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
