@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>How can a forcing function help me achieve things?</title>
+            <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/forcingfunctions/</link>
+            <guid>https://ilearnt.com/posts/forcingfunctions/</guid>
+            <description>&lt;p&gt;In the David Perell podcast with Daniel Gross they also talked about forcing functions. They started by discussing why Israel seems to be so strong in the tech industry and whether their unique circumstances may be the cause. They talked about how they approach problems as they are forced to deal with the consequences if they don’t - compared to other nations that try to solve problems as they may be impacted by them at some point in the future.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Is the level too hard?</title>
             <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
@@ -33,16 +41,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;Here&#x27;s a tip that my remote team does - When you get up in the morning, if you&#x27;re willing and able, try COMMUTING to your home office! Go for a circle around your neighbourhood and arrive back home to your home&#x2F;remote office! It psychologically marks the start and end of the day.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
-</description>
-        </item>
-        <item>
-            <title></title>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-            <link>https://ilearnt.com/posts/newpost/</link>
-            <guid>https://ilearnt.com/posts/newpost/</guid>
-            <description>&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;p&gt;&lt;strong&gt;Links&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>

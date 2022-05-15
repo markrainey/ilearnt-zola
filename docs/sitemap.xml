@@ -7,9 +7,6 @@
         <loc>https://ilearnt.com/categories/</loc>
     </url>
     <url>
-        <loc>https://ilearnt.com/categories//page/1/</loc>
-    </url>
-    <url>
         <loc>https://ilearnt.com/categories/blockchain/</loc>
     </url>
     <url>
@@ -68,6 +65,9 @@
     </url>
     <url>
         <loc>https://ilearnt.com/categories/life/page/7/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/life/page/8/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/categories/podcast/</loc>
@@ -275,6 +275,10 @@
         <lastmod>2018-10-19</lastmod>
     </url>
     <url>
+        <loc>https://ilearnt.com/posts/forcingfunctions/</loc>
+        <lastmod>2022-05-16</lastmod>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/fourminutemile/</loc>
         <lastmod>2018-03-08</lastmod>
     </url>
@@ -437,10 +441,6 @@
     <url>
         <loc>https://ilearnt.com/posts/networkdevelopments/</loc>
         <lastmod>2018-06-29</lastmod>
-    </url>
-    <url>
-        <loc>https://ilearnt.com/posts/newpost/</loc>
-        <lastmod>2022-01-01</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/octopusdreaming/</loc>
