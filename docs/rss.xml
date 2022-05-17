@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Is it time to renew your novice permit?</title>
+            <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/novicepermit/</link>
+            <guid>https://ilearnt.com/posts/novicepermit/</guid>
+            <description>&lt;p&gt;When I feel I am no longer learning I know it is likely time for me to either look at how my current role can change or time to look for a new role.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>How can a forcing function help me achieve things?</title>
             <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
@@ -41,6 +49,16 @@
 &lt;blockquote&gt;
 &lt;p&gt;Here&#x27;s a tip that my remote team does - When you get up in the morning, if you&#x27;re willing and able, try COMMUTING to your home office! Go for a circle around your neighbourhood and arrive back home to your home&#x2F;remote office! It psychologically marks the start and end of the day.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
+</description>
+        </item>
+        <item>
+            <title></title>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/newpost/</link>
+            <guid>https://ilearnt.com/posts/newpost/</guid>
+            <description>&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
