@@ -7,7 +7,10 @@
         <loc>https://ilearnt.com/categories/</loc>
     </url>
     <url>
-        <loc>https://ilearnt.com/categories//page/1/</loc>
+        <loc>https://ilearnt.com/categories/bible/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/bible/page/1/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/categories/blockchain/</loc>
@@ -269,6 +272,10 @@
         <lastmod>2020-03-19</lastmod>
     </url>
     <url>
+        <loc>https://ilearnt.com/posts/fearofjudgement/</loc>
+        <lastmod>2022-05-18</lastmod>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/filmgraphicdesign/</loc>
         <lastmod>2018-01-30</lastmod>
     </url>
@@ -447,10 +454,6 @@
     <url>
         <loc>https://ilearnt.com/posts/networkdevelopments/</loc>
         <lastmod>2018-06-29</lastmod>
-    </url>
-    <url>
-        <loc>https://ilearnt.com/posts/newpost/</loc>
-        <lastmod>2022-01-01</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/novicepermit/</loc>

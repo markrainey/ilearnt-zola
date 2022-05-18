@@ -2,7 +2,7 @@
 title="Is the level too hard?"
 date=2022-05-15
 [taxonomies]
-categories=["life", "podcast"]
+categories=["life","podcast"]
 tags=[]
 
 +++
