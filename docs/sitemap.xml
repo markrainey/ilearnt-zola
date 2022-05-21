@@ -13,6 +13,12 @@
         <loc>https://ilearnt.com/categories/bible/page/1/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/biography/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/biography/page/1/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/blockchain/</loc>
     </url>
     <url>
@@ -364,6 +370,10 @@
         <lastmod>2018-03-29</lastmod>
     </url>
     <url>
+        <loc>https://ilearnt.com/posts/kennethgoanascis/</loc>
+        <lastmod>2022-05-21</lastmod>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/knowledgeworkers/</loc>
         <lastmod>2018-01-24</lastmod>
     </url>
@@ -483,6 +493,9 @@
     </url>
     <url>
         <loc>https://ilearnt.com/posts/page/15/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/page/16/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/page/2/</loc>

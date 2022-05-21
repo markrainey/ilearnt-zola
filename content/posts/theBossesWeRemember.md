@@ -2,7 +2,7 @@
 title="The bosses who change our lives"
 date=2018-05-05
 [taxonomies]
-categories=["work"]
+categories=["work","biography"]
 tags=[]
 +++
 I have been very fortunate in my career to have some exceptional bosses that have had a massive impact on my career.

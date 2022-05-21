@@ -2,7 +2,7 @@
 title="A personal link to 'The Mother Of All Demos'"
 date=2018-05-15
 [taxonomies]
-categories=["life"]
+categories=["life","biography"]
 tags=[]
 +++
 There is a video of a demonstration given by Doug Engelbart in 1968 which is commonly referred to as "The Mother Of All Demos". In the demo, he demonstrates a lot of technologies for the first time together that are common place today and some which we haven't even achieved properly now:

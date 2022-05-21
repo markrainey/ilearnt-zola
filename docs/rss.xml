@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Kenneth Goanascis</title>
+            <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/kennethgoanascis/</link>
+            <guid>https://ilearnt.com/posts/kennethgoanascis/</guid>
+            <description>&lt;p&gt;Many years ago when I ran an engineering team for a consultancy we would get calls almost every day from recruitment agencies trying to pitch their services to us. &lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>WeWork versus IWork</title>
             <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
