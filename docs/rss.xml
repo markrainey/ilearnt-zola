@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Are you considering time sensitivity?</title>
+            <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/timesensitivity/</link>
+            <guid>https://ilearnt.com/posts/timesensitivity/</guid>
+            <description>&lt;p&gt;Somethings in life are time sensitive and some are not. A business opportunity may be time sensitive in that it will only be a success when certain things are aligned or maybe new technologies are available.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Kenneth Goanascis</title>
             <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
