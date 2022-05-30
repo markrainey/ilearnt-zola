@@ -82,6 +82,9 @@
         <loc>https://ilearnt.com/categories/life/page/8/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/life/page/9/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/podcast/</loc>
     </url>
     <url>
@@ -580,6 +583,10 @@
     <url>
         <loc>https://ilearnt.com/posts/rethinkingconferences/</loc>
         <lastmod>2020-05-27</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/savinglives/</loc>
+        <lastmod>2022-05-30</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/scaladocker/</loc>

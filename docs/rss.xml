@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Saving lives through design</title>
+            <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/savinglives/</link>
+            <guid>https://ilearnt.com/posts/savinglives/</guid>
+            <description>&lt;p&gt;A few years ago I had to do first aid training as part of the mandatory training for the youth football team I coached. This included learning how to use a defibrillator - something you obviously hope to never have to use. I was impressed how well it explained each step of what you need to do.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Creativity modes</title>
             <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
