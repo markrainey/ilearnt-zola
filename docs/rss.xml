@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Capturing memories</title>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/capturingmemories/</link>
+            <guid>https://ilearnt.com/posts/capturingmemories/</guid>
+            <description>&lt;p&gt;A PhD student has created a way to capture conversations with hospice patients that their relatives can play back and listen to at any time later.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Preparation meets opportunity</title>
             <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
