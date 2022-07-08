@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>High value low engagement versus high engagement low value apps</title>
+            <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/highvaluelowengagement/</link>
+            <guid>https://ilearnt.com/posts/highvaluelowengagement/</guid>
+            <description>&lt;p&gt;Most mobile apps, and websites to an extent, seem to be driven by how much they can get the end user to use or engage with them; the more usage the better. &lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Work in 2030</title>
             <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>

@@ -121,6 +121,9 @@
         <loc>https://ilearnt.com/categories/technology/page/7/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/technology/page/8/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/video/</loc>
     </url>
     <url>
@@ -358,6 +361,10 @@
     <url>
         <loc>https://ilearnt.com/posts/hideandseek/</loc>
         <lastmod>2020-11-12</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/highvaluelowengagement/</loc>
+        <lastmod>2022-07-08</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/howdocryptocurrencieswork/</loc>
