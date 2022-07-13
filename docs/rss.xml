@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Getting quieter to get louder</title>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/gettingquieter/</link>
+            <guid>https://ilearnt.com/posts/gettingquieter/</guid>
+            <description>&lt;p&gt;Austin Kleon wrote an article about how we can get used to anything. Something is new and exciting but before too long it becomes the normal and we are no longer excited by it. It seems to be part of our nature.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>High value low engagement versus high engagement low value apps</title>
             <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
