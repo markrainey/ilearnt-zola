@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Why? Not no</title>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/whynotno/</link>
+            <guid>https://ilearnt.com/posts/whynotno/</guid>
+            <description>&lt;p&gt;One of my favourite podcasts is Hanselminutes by Scott Hanselman. I have been listening to it probably longer than any other podcast. He recently interviewed Roberta Arcoverde from Stack Overflow. She talked about how the architecture of the Stack Overflow site is very different from most other large sites in that it is a self hosted monolithic application. &lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>So what do you do?</title>
             <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
