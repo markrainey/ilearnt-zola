@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>JAS goals</title>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/jasgoals/</link>
+            <guid>https://ilearnt.com/posts/jasgoals/</guid>
+            <description>&lt;p&gt;About fifteen years ago, Casey Treat spoke at our church about goal setting. He explained that a lot of people set a goal of reaching a certain weight and he said the problem with that occurs when you reach that weight.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Why? Not no</title>
             <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
