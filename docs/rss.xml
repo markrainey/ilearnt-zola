@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Learnings from my jobs</title>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/learningsfromjobs/</link>
+            <guid>https://ilearnt.com/posts/learningsfromjobs/</guid>
+            <description>&lt;p&gt;I have had lots of  jobs during my life and I think I can identify at least one thing I have learnt at each of them. I usually know it is time to move to a new role if I no longer enjoy it or I am no longer learning something new.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>JAS goals</title>
             <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
