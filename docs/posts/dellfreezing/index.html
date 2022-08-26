@@ -30,7 +30,7 @@
 
   <title>
     
-I Learnt | Generational Mindsets
+I Learnt | Solving a Dell laptop freezing
 
   </title>
 
@@ -96,7 +96,7 @@ I Learnt | Generational Mindsets
       <div class="column is-8 is-offset-2">
         <article class="box">
           <h1 class="title">
-            Generational Mindsets
+            Solving a Dell laptop freezing
           </h1>
           <p class="subtitle"></p>
           <div class="columns is-multiline is-gapless">
@@ -104,7 +104,7 @@ I Learnt | Generational Mindsets
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2022-08-24">August 24, 2022</time></span>
+  <span><time datetime="2022-08-28">August 28, 2022</time></span>
 </span>
 
             </div>
@@ -118,7 +118,7 @@ I Learnt | Generational Mindsets
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>245 words</span>
+  <span>203 words</span>
 </span>
 
             </div>
@@ -128,12 +128,12 @@ I Learnt | Generational Mindsets
 <p>
   Categories:
   
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/life/">
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/howto/">
     <span class="icon-text">
       <span class="icon">
         <i class="fas fa-cube"></i>
       </span>
-      <span>life</span>
+      <span>howto</span>
     </span>
   </a>
   
@@ -146,14 +146,12 @@ I Learnt | Generational Mindsets
             </div>
           </div>
           <div class="content mt-2">
-            <p>In a recent article/tweet the author commented on how all the photos taken by their child looked awful. However they realized this was down to a different generational mindset.</p>
+            <p>I have a Dell XPS13 laptop and it developed this really annoying habit of randomly freezing for a few seconds and then carrying on as if nothing had happened. It quite often happened in the middle of a work call which made it pretty much unusable.</p>
 <span id="continue-reading"></span>
-<p>This was highlighted when I was walking behind two teenagers recently and they just took random arbitrary pictures of themselves as they were walking.</p>
-<p>They view photos as disposable. There is basically no overhead to taking hundreds of images - it is just point at something (ideally including themselves) and click the button as many times as they like. They also have huge numbers of  filters that can then be applied to tweak it in various ways.</p>
-<p>Those of us brought up in the age where photos were taken on film have a different mindset. When we took photos there was a cost involved - it cost money to develop the photos and also there were limited photos available to take on each film. We had to spend time thinking about the photo we were about to take before pressing the button.</p>
-<p>It appears that this mindset has continued for a lot of people into the modern digital era. Despite the low overhead, we still take the time to compose the shot before taking it. Personally I am okay with this as I would prefer one decent photo rather than hundreds of random photos but it highlights a difference in generational mindset.</p>
-<p>What other generational mindsets do we have?</p>
-<p>(Unfortunately I can't find the original source)</p>
+<p>I checked the Windows event viewer and there was nothing in there that stood out at the time it happened. I trawled the web for a solution but didn't find anything.</p>
+<p>I can't remember how I found the solution; it may have been from watching the task manager when it froze, however it turns out it is due to the Dell SupportAssist and related processes. If I turn off these services then I remove all the freezing issues.</p>
+<p>I initially just disabled the one service but it would sometimes magically start again - no doubt triggered by another service.</p>
+<p>So the solution for me is to open the &quot;services&quot; app. Sort the entries so all the &quot;Dell&quot; services are together and then disable them all. I have seen no side-effects on my machine (your experience may differ I guess). Every few months I run SupportAssist manually to check for updates and the disable them all again.</p>
 
           </div>
         </article>
@@ -194,19 +192,10 @@ I Learnt | Generational Mindsets
     <div class="columns is-centered">
       <div class="column is-8">
         <nav class="level">
-          
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;dellfreezing&#x2F;">
-              <span class="icon mr-2">
-                <i class="fas fa-arrow-circle-left"></i>
-              </span>
-              Solving a Dell laptop freezing
-            </a>
-          </div>
            
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;learningsfromjobs&#x2F;">
-              Learnings from my jobs<span class="icon ml-2">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;generationalmindsets&#x2F;">
+              Generational Mindsets<span class="icon ml-2">
                 <i class="fas fa-arrow-circle-right"></i>
               </span>
             </a>

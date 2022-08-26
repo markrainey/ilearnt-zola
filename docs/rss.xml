@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Solving a Dell laptop freezing</title>
+            <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/dellfreezing/</link>
+            <guid>https://ilearnt.com/posts/dellfreezing/</guid>
+            <description>&lt;p&gt;I have a Dell XPS13 laptop and it developed this really annoying habit of randomly freezing for a few seconds and then carrying on as if nothing had happened. It quite often happened in the middle of a work call which made it pretty much unusable.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Generational Mindsets</title>
             <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
