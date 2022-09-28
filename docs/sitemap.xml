@@ -49,6 +49,9 @@
         <loc>https://ilearnt.com/categories/business/page/4/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/business/page/5/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/howto/</loc>
     </url>
     <url>
@@ -98,6 +101,9 @@
     </url>
     <url>
         <loc>https://ilearnt.com/categories/podcast/page/2/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/podcast/page/3/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/categories/technology/</loc>
@@ -399,6 +405,10 @@
     <url>
         <loc>https://ilearnt.com/posts/imageprocessingdevelopments/</loc>
         <lastmod>2018-05-16</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/informationorganisationapplication/</loc>
+        <lastmod>2022-09-28</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/installingapayphone/</loc>
