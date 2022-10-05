@@ -2,7 +2,7 @@
 title="When your WPF menu alignment is wrong"
 date=2020-07-07
 [taxonomies]
-categories=["technology"]
+categories=["coding"]
 tags=[]
 +++
 I had a very weird problem where my menus on a WPF application were dropping down to the left instead of the normal to the right.

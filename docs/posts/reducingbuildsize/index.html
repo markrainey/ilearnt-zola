@@ -30,8 +30,8 @@
 
   <title>
     
-    I Learnt
-    
+I Learnt | Reducing Build Size
+
   </title>
 
   
@@ -87,47 +87,24 @@
   </nav>
 
   
-<header class='hero'>
-  <div class='hero-body pb-0'>
-    <div class='container'>
-      <div class='has-text-centered'>
-        <h1 class="title">
-          <span class="icon-text">
-            <span class="icon">
-              <i class="fas fa-cube"></i>
-            </span>
-            <span>technology</span>
-          </span>
-        </h1>
-      </div>
-    </div>
-  </div>
-</header>
-
+  
 
   
 <section class="section">
   <div class="container">
-    <div class="columns is-centered">
-      <div class="column is-9">
-        
-        
-        
-
-        
+    <div class="columns">
+      <div class="column is-8 is-offset-2">
         <article class="box">
-          <h2 class="title">
-            <a href='https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;hugo&#x2F;'>
-              Getting started with the Hugo static site generator
-            </a>
-          </h2>
+          <h1 class="title">
+            Reducing Build Size
+          </h1>
           <p class="subtitle"></p>
           <div class="columns is-multiline is-gapless">
             <div class="column is-8">
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2018-01-20">January 20, 2018</time></span>
+  <span><time datetime="2022-10-05">October 05, 2022</time></span>
 </span>
 
             </div>
@@ -137,47 +114,26 @@
   <span class="icon">
     <i class="far fa-clock"></i>
   </span>
-  <span>2 min,</span>
+  <span>1 min,</span>
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>212 words</span>
+  <span>161 words</span>
 </span>
 
             </div>
-          </div>
-          <div class="content mt-2">
-            <p>This blog is being powered by a static content generator called <a href="https://gohugo.io/">Hugo</a> and hosted on GitHub Pages. Getting Hugo up and running was relatively easy. Download the relevant version and installation was just copying it to a folder.</p>
-
-            <a href='https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;hugo&#x2F;'>
-              Read More
-              <span class="icon is-small">
-                <i class="fas fa-arrow-right fa-xs"></i>
-              </span>
-            </a>
-          </div>
-          <div class="columns">
             <div class="column">
               
               
 <p>
   Categories:
   
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/technology/">
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/coding/">
     <span class="icon-text">
       <span class="icon">
         <i class="fas fa-cube"></i>
       </span>
-      <span>technology</span>
-    </span>
-  </a>
-  
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/howto/">
-    <span class="icon-text">
-      <span class="icon">
-        <i class="fas fa-cube"></i>
-      </span>
-      <span>howto</span>
+      <span>coding</span>
     </span>
   </a>
   
@@ -189,9 +145,25 @@
               
             </div>
           </div>
+          <div class="content mt-2">
+            <p>I have been developing a Maui application as a side project and on the whole it has been a fun process. It is still very buggy and there are some pain points however it seems to work. One aspect I haven't liked is the size of the build artefacts - they are huge if you have multiple projects.</p>
+<span id="continue-reading"></span>
+<p>Patrick Smacchia posted an article which mentions a little known file called &quot;Directory.Build.Props&quot; which you can put in the root folder of your solution and it can, among other things, tell the build to use a single &quot;bin&quot; folder for the output. On my project this has saved over 1GB in output!</p>
+<p>All you need to do is create the file in the same folder as the &quot;.sln&quot; file and include the following content:</p>
+<pre data-lang="xml" class="language-xml "><code class="language-xml" data-lang="xml">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;Project&gt; 
+   &lt;PropertyGroup&gt;
+      &lt;BaseOutputPath&gt;..\bin&lt;&#x2F;BaseOutputPath&gt; 
+   &lt;&#x2F;PropertyGroup&gt;
+&lt;&#x2F;Project&gt;
+</code></pre>
+<p><strong>Links</strong></p>
+<p><a href="https://blog.ndepend.com/net-build-improvement-stop-wasting-resources/">.NET Build Improvement: Stop Wasting Resources</a></p>
+
+          </div>
         </article>
-        
       </div>
+      
     </div>
   </div>
 </section>
@@ -221,81 +193,32 @@
 
 
   
-  
-  <section class="section">
-    <div class="container">
-      <nav class="pagination is-centered" role="navigation" aria-label="pagination">
-        <a class="pagination-previous" href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;7&#x2F;' >
-          <span class="icon">
-            <i class="fas fa-angle-double-left"></i>
-          </span>
-          Previous
-        </a>
-        <a class="pagination-next" href='' disabled>
-          Next page
-          <span class="icon">
-            <i class="fas fa-angle-double-right"></i>
-          </span>
-        </a>
-        <ul class="pagination-list">
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;1' aria-label="Goto page 1">
-              1
+
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <nav class="level">
+           
+          <div class="level-item has-text-centered">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;informationorganisationapplication&#x2F;">
+              Information - Organisation - Application<span class="icon ml-2">
+                <i class="fas fa-arrow-circle-right"></i>
+              </span>
             </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;2' aria-label="Goto page 2">
-              2
-            </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;3' aria-label="Goto page 3">
-              3
-            </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;4' aria-label="Goto page 4">
-              4
-            </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;5' aria-label="Goto page 5">
-              5
-            </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;6' aria-label="Goto page 6">
-              6
-            </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link " href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;7' aria-label="Goto page 7">
-              7
-            </a>
-          </li>
-          
-          <li>
-            <a class="pagination-link is-current" href='https:&#x2F;&#x2F;ilearnt.com&#x2F;categories&#x2F;technology&#x2F;page&#x2F;8' aria-label="Goto page 8">
-              8
-            </a>
-          </li>
-          
-        </ul>
-      </nav>
+          </div>
+            
+        </nav>
+      </div>
     </div>
-  </section>
-  
-  
+  </div>
+</section>
+
+
 
   
-  
+
+
 
   <footer class="footer py-4">
     <div class="content has-text-centered">
@@ -335,7 +258,10 @@
   <script src="https://ilearnt.com/search_index.en.js"></script><script src="https://ilearnt.com/js/site.js"></script>
 
   
-  
+
+
+
+
 
   
   

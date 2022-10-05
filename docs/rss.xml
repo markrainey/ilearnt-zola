@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Reducing Build Size</title>
+            <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/reducingbuildsize/</link>
+            <guid>https://ilearnt.com/posts/reducingbuildsize/</guid>
+            <description>&lt;p&gt;I have been developing a Maui application as a side project and on the whole it has been a fun process. It is still very buggy and there are some pain points however it seems to work. One aspect I haven&#x27;t liked is the size of the build artefacts - they are huge if you have multiple projects.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Information - Organisation - Application</title>
             <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>

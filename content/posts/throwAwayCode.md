@@ -2,7 +2,7 @@
 title="The value of throwing code away"
 date=2019-02-07
 [taxonomies]
-categories=["technology"]
+categories=["technology","coding"]
 tags=[]
 +++
 We had a discussion at work about "throw away" code. One of our developers was very against developing any code that would be thrown away afterwards. He referred to this as a waste. In my view sometimes the biggest gain can be in developing code that is meant to be thrown away. It can be used to try things and, more importantly, learn things that can shape the code that is kept. This article sums it up much more eloquently than I can.

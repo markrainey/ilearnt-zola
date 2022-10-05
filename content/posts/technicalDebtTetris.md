@@ -2,7 +2,7 @@
 title="Technical debt is like Tetris"
 date=2019-03-28
 [taxonomies]
-categories=["technology"]
+categories=["technology","coding"]
 tags=[]
 +++
 This article uses a really neat analogy with Tetris for illustrating the impact of technical debt. Leaving gaps is akin to leaving technical debt in the code base and makes subsequent changes more difficult or slower to ship.

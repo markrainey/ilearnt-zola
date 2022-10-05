@@ -2,7 +2,7 @@
 title="Abandoning the baggage of Agile"
 date=2018-07-13
 [taxonomies]
-categories=["technology"]
+categories=["technology","coding"]
 tags=[]
 +++
 I have worked with various flavours of "Agile" over numerous years. These have ranged from the very formal where everything is done by the book to more ad-hoc versions where different parts are cherry picked or in most cases done because people think they should be done.

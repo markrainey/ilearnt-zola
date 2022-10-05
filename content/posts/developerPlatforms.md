@@ -2,7 +2,7 @@
 title="Developer platforms must listen to developers in order to grow"
 date=2018-02-20
 [taxonomies]
-categories=["technology"]
+categories=["technology","coding"]
 tags=[]
 +++
 This is an excellent study on why developers are so important to a platform. At the moment we are developing a platform and we have been trying to get this message across to the business side of the company. This article backs up what we have been saying.

@@ -2,7 +2,7 @@
 title="REST API Guidelines"
 date=2018-05-17
 [taxonomies]
-categories=["technology"]
+categories=["technology","coding"]
 tags=[]
 +++
 This is here for future reference - a very good set of guidelines for REST APIs.

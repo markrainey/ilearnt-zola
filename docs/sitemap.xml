@@ -52,6 +52,15 @@
         <loc>https://ilearnt.com/categories/business/page/5/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/coding/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/coding/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/coding/page/2/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/howto/</loc>
     </url>
     <url>
@@ -128,9 +137,6 @@
     </url>
     <url>
         <loc>https://ilearnt.com/categories/technology/page/7/</loc>
-    </url>
-    <url>
-        <loc>https://ilearnt.com/categories/technology/page/8/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/categories/video/</loc>
@@ -639,6 +645,10 @@
     <url>
         <loc>https://ilearnt.com/posts/re650/</loc>
         <lastmod>2018-02-04</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/reducingbuildsize/</loc>
+        <lastmod>2022-10-05</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/reducingteamsize/</loc>
