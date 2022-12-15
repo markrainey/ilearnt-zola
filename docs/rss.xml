@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Fix default Android emulator not showing in Visual Studio 2022</title>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/androidemulator/</link>
+            <guid>https://ilearnt.com/posts/androidemulator/</guid>
+            <description>&lt;p&gt;I am working on a Maui application in my spare time and Visual Studio has this annoying habit of not showing the default Android emulator when I load the project. I could go through the hassle of creating a new emulator each time but that is painful and slow.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Reducing Build Size</title>
             <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
