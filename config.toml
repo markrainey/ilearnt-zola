@@ -21,6 +21,8 @@ generate_feed = true
 generate_rss = true
 feed_filename = "rss.xml"
 
+ignored_content = ["**/Templates/**"]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
