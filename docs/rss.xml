@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>The world in photos</title>
+            <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/worldinphotos/</link>
+            <guid>https://ilearnt.com/posts/worldinphotos/</guid>
+            <description>&lt;p&gt;I recently came across two different websites that allow you to look at the world through photos in two completely different ways.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>A Tale of Three Experiences: Customer Service Up Close</title>
             <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
