@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Twitter to Mastodon</title>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/twittertomastodon/</link>
+            <guid>https://ilearnt.com/posts/twittertomastodon/</guid>
+            <description>&lt;p&gt;It definitely feels like Twitter is slowly dying.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>The world in photos</title>
             <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
