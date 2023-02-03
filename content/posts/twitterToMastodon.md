@@ -29,5 +29,7 @@ I think it is a short term solution and I will end up following both for now but
 __Links__
 
 [My Mastodon Profile](https://hachyderm.io/@markrainey)
+
 [Mastodon for Developers](https://auth0.com/blog/mastdon-for-developers/)
+
 [MoveToDon](https://www.movetodon.org/)
