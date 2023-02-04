@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Strategies for starting something new</title>
+            <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/startingsomethingnew/</link>
+            <guid>https://ilearnt.com/posts/startingsomethingnew/</guid>
+            <description>&lt;p&gt;Most people struggle with the blank page and starting something new. This episode of the podcast Spark &amp;amp; Fire has snippets from interviews with 5 different people and how they start something new or overcome writers block.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Twitter to Mastodon</title>
             <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
