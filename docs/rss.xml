@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Decide who decides</title>
+            <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+            <link>https://ilearnt.com/posts/decidewhodecides/</link>
+            <guid>https://ilearnt.com/posts/decidewhodecides/</guid>
+            <description>&lt;p&gt;As many of my posts start, I was listening to a podcast. This was a startup founder who was talking about the company she started with a partner and how they handled decisions where the two of them didn&#x27;t agree about something.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Strategies for starting something new</title>
             <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
