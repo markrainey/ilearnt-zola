@@ -21,7 +21,7 @@ generate_feed = true
 generate_rss = true
 feed_filename = "rss.xml"
 
-ignored_content = ["**/Templates/**"]
+ignored_content = ["**/Templates/**","**/Drafts/**"]
 
 [markdown]
 # Whether to do syntax highlighting
