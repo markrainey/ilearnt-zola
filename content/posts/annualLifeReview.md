@@ -18,4 +18,5 @@ It was a useful exercise that took me a couple of hours. I am not sure I identif
 __Links__
 
 [How to Conduct an Annual Life Review That Will Catapult You into the New Year](https://schlaf.medium.com/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year-d5aaffebac1f)
+
 [Template](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit)
