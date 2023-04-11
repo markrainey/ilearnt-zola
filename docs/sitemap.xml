@@ -148,6 +148,9 @@
         <loc>https://ilearnt.com/categories/technology/page/7/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/technology/page/8/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/video/</loc>
     </url>
     <url>
@@ -618,6 +621,9 @@
         <loc>https://ilearnt.com/posts/page/2/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/posts/page/20/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/page/3/</loc>
     </url>
     <url>
@@ -769,6 +775,10 @@
     <url>
         <loc>https://ilearnt.com/posts/thebossesweremember/</loc>
         <lastmod>2018-05-05</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/thefirstpicturesfromspace/</loc>
+        <lastmod>2023-04-11</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/thekubernetesbook/</loc>
