@@ -1,6 +1,6 @@
 +++
 title="The seagull data centre algorithm"
-date=2023-04-12
+date=2023-04-13
 [taxonomies]
 categories=["technology"]
 tags=[]
