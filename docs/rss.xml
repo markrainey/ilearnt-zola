@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The seagull data centre algorithm</title>
+          <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://ilearnt.com/posts/theseagulldatacentrealgorithm/</link>
+          <guid>https://ilearnt.com/posts/theseagulldatacentrealgorithm/</guid>
+          <description>&lt;p&gt;Could studying the habits of seagulls lead to better cloud computing approaches?&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Fatherly wisdom</title>
           <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
