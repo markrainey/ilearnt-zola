@@ -1,5 +1,5 @@
 +++
-title="Annual Life Review"
+title="Annual life review"
 date=2023-04-09
 [taxonomies]
 categories=["life"]
