@@ -41,6 +41,7 @@ navbar_items = [
 ]
 
 toc = true
+logo = "/images/logo-color.png"
 
 [extra.favicon]
 favicon_16x16 = "/icons/favicon-16x16.png"

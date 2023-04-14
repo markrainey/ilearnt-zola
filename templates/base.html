@@ -75,7 +75,9 @@
   <nav aria-label="section navigation" class="navbar is-light" role="navigation">
     <div class="container">
       <div class="navbar-brand">
-        <a class="navbar-item is-size-5 has-text-weight-bold" href="{{config.base_url}}">{{ config.title }}</a>
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="{{config.base_url}}">
+		<img src="{{ config.extra.logo }}"></img>
+		</a>
         <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -103,6 +105,12 @@
               <i class="fas fa-adjust"></i>
             </span>
           </a>
+		  <a class="navbar-item" href="{{ config.base_url }}/{{ config.feed_filename }}" target="_blank"
+			 title="RSS Feed">
+			<span class="icon">
+				<i class="fas fa-rss"></i>
+			</span>
+			</a>
         </div>
       </div>
     </div>

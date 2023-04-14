@@ -5,8 +5,9 @@
   <div class='hero-body pb-0'>
     <div class='container'>
       <div class='has-text-centered'>
+	  <img src="{{ config.extra.logo }}"></img>
         <h1 class="title">
-          <span class="icon-text">
+          <span class="icon-text has-text-info-dark">
             <span class="icon">
               <i class="fas fa-cube"></i>
             </span>
@@ -33,7 +34,7 @@
         {% for page in pages %}
         <article class="box">
           <h2 class="title">
-            <a href='{{ page.permalink }}'>
+            <a class="has-text-info-dark" href='{{ page.permalink }}'>
               {{ page.title }}
             </a>
           </h2>
@@ -48,7 +49,7 @@
           </div>
           <div class="content mt-2">
             {{ page.summary | safe }}
-            <a href='{{ page.permalink }}'>
+            <a class="has-text-weight-semibold has-text-info-dark" href='{{ page.permalink }}'>
               Read More
               <span class="icon is-small">
                 <i class="fas fa-arrow-right fa-xs"></i>
