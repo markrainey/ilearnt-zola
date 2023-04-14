@@ -17,6 +17,34 @@
     <div class="content">
       {{ section.content | safe }}
     </div>
+	<div>
+		{% set blog_section = get_section(path="posts/_index.md") %}		
+		{% if paginator %}
+        {% set pages = paginator.pages %}
+        {% else %}
+        {% set pages = blog_section.pages %}
+        {% endif %}
+
+        {% for page in pages | slice(end=5) %}
+        <article class="box">
+          <h2 class="title">
+            <a class="has-text-info-dark latest-titles" href='{{ page.permalink }}'>
+              {{ page.title }}
+            </a>
+          </h2>
+          <p class="subtitle">{{ page.description }}</p>
+          <div class="columns is-multiline is-gapless">
+            <div class="column is-8">
+              {{ macros::page_publish_metadata(page=page) }}
+            </div>
+            <div class="column is-4 has-text-right-desktop">
+              {{ macros::page_content_metadata(page=page) }}
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+
+	</div>
   </div>
 </section>
 {% endblock %}

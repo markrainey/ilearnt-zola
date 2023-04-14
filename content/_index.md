@@ -12,6 +12,6 @@ This is my attempt to capture those nuggets in one place to make them easier to 
 
 Maybe, if I am lucky, you will might enjoy or learn something from them as well.
 
-You can read my writing [here](/posts/).
+You can read my latest posts below or all my writing is **[here](/posts/)**.
 
 
