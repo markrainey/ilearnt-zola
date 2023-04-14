@@ -1,6 +1,7 @@
 +++
 title="Places to name things"
 date=2019-02-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

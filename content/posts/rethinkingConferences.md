@@ -1,6 +1,7 @@
 +++
 title="Rethinking conferences in a remote only world"
 date=2020-05-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

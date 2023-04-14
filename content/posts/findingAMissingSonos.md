@@ -1,6 +1,7 @@
 +++
 title="How to find a missing Sonos"
 date=2020-12-19
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["howto"]
 tags=[]

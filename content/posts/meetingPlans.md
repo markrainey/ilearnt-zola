@@ -1,6 +1,7 @@
 +++
 title="How to change your day with meeting plans"
 date=2020-08-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

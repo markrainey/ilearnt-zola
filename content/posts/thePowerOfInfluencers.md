@@ -1,6 +1,7 @@
 +++
 title="The growing power of influencers"
 date=2020-11-10
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

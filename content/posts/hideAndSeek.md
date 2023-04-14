@@ -1,6 +1,7 @@
 +++
 title="AI breaks the game of hide and seek"
 date=2020-11-12
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["video", "life"]
 tags=[]

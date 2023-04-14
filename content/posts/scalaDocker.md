@@ -1,6 +1,7 @@
 +++
 title="Scala + Sbt + Docker quickly"
 date=2018-07-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["coding"]
 tags=[]

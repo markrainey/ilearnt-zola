@@ -1,6 +1,7 @@
 +++
 title="Working from home boosts productivity"
 date=2018-05-14
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

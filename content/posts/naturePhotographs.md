@@ -1,6 +1,7 @@
 +++
 title="Stunning nature photographs"
 date=2018-02-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

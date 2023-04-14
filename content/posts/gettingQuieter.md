@@ -1,6 +1,7 @@
 +++
 title="Getting quieter to get louder"
 date=2022-07-13
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

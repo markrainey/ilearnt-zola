@@ -1,6 +1,7 @@
 +++
 title="How to fix Sony Bravia/Sonos sound stops working"
 date=2022-06-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["howto"]
 tags=[]

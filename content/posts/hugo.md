@@ -1,6 +1,7 @@
 +++
 title="Getting started with the Hugo static site generator"
 date=2018-01-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology", "howto"]
 tags=[]

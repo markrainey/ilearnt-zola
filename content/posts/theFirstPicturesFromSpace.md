@@ -1,6 +1,7 @@
 +++
 title="The first pictures from space"
 date=2023-04-11
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

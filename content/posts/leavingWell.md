@@ -1,6 +1,7 @@
 +++
 title="It always pays to leave well"
 date=2019-03-18
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

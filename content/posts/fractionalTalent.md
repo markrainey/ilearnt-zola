@@ -1,6 +1,7 @@
 +++
 title="Fractional talent as an alternative pool of resources"
 date=2020-11-02
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

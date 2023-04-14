@@ -1,6 +1,7 @@
 +++
 title="Pi"
 date=2018-03-12
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

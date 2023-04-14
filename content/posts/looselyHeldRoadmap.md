@@ -1,6 +1,7 @@
 +++
 title="The loosely held product roadmap"
 date=2020-11-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

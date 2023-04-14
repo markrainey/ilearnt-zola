@@ -1,6 +1,7 @@
 +++
 title="Technology - Am I past it?"
 date=2018-01-22
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life", "technology"]
 tags=[]

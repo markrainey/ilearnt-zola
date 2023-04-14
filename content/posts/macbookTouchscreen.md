@@ -1,6 +1,7 @@
 +++
 title="A MacBook touchscreen for only $1"
 date=2018-04-04
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Consensus 2019 - Conference Notes"
 date=2019-05-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

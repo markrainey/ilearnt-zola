@@ -1,6 +1,7 @@
 +++
 title="WeWork versus IWork"
 date=2022-05-19
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

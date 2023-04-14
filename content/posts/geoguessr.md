@@ -1,6 +1,7 @@
 +++
 title="Travel the world with the geographic game - GeoGuessr"
 date=2018-07-04
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

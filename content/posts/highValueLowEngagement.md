@@ -1,6 +1,7 @@
 +++
 title="High value low engagement versus high engagement low value apps"
 date=2022-07-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

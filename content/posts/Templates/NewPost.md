@@ -1,6 +1,7 @@
 +++
 title=""
 date={{date}}
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=[""]
 tags=[]

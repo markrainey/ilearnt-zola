@@ -1,6 +1,7 @@
 +++
 title="Ma’agalim - Jane Bordeaux"
 date=2018-02-03
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["video"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Leaders Eat Last by Simon Sinek"
 date=2018-02-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

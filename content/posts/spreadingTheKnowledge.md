@@ -1,6 +1,7 @@
 +++
 title="Speed up in the long term by slowing down in the short term"
 date=2020-03-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

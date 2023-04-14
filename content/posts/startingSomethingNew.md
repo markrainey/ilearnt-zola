@@ -1,6 +1,7 @@
 +++
 title="Strategies for starting something new"
 date=2023-02-04
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast"]
 tags=[]

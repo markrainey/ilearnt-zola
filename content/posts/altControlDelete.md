@@ -1,6 +1,7 @@
 +++
 title="The secret history of Ctrl+Alt+Del"
 date=2018-10-16
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

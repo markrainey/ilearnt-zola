@@ -1,6 +1,7 @@
 +++
 title="How to identify real gurus and experts"
 date=2019-01-03
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

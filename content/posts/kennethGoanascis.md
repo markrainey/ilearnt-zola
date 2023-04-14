@@ -1,6 +1,7 @@
 +++
 title="Kenneth Goanascis"
 date=2022-05-21
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["biography","work"]
 tags=[]

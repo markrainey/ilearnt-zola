@@ -1,6 +1,7 @@
 +++
 title="A personal link to 'The Mother Of All Demos'"
 date=2018-05-15
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","biography"]
 tags=[]

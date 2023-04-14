@@ -1,6 +1,7 @@
 +++
 title="Tiny Projects"
 date=2022-05-25
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

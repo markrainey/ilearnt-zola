@@ -1,6 +1,7 @@
 +++
 title="When your WPF menu alignment is wrong"
 date=2020-07-07
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["coding"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Armada by Ernest Cline"
 date=2018-05-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

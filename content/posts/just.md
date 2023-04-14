@@ -1,6 +1,7 @@
 +++
 title="It is 'just' ..."
 date=2018-03-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

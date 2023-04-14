@@ -1,6 +1,7 @@
 +++
 title="How can a forcing function help me achieve things?"
 date=2022-05-16
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast"]
 tags=[]

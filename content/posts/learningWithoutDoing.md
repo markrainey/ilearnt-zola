@@ -1,6 +1,7 @@
 +++
 title="Sometimes to learn you also need to do"
 date=2018-10-16
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

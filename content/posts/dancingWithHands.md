@@ -1,6 +1,7 @@
 +++
 title="An entrancing dance with just the hands"
 date=2018-04-25
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["video"]
 tags=[]

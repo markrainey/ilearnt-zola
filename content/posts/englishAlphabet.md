@@ -1,6 +1,7 @@
 +++
 title="The amazing evolution of the English alphabet"
 date=2018-04-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

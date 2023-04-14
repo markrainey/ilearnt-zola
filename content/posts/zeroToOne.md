@@ -1,6 +1,7 @@
 +++
 title="Zero to One by Peter Thiel"
 date=2018-05-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

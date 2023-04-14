@@ -1,6 +1,7 @@
 +++
 title="Good Strategy/Bad Strategy by Richard P. Rumelt"
 date=2018-03-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

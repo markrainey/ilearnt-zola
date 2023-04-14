@@ -1,6 +1,7 @@
 +++
 title="Reducing the team size to deliver"
 date=2018-02-26
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work", "technology"]
 tags=[]

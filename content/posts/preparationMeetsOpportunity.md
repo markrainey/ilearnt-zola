@@ -1,6 +1,7 @@
 +++
 title="Preparation meets opportunity"
 date=2022-06-13
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast","bible"]
 tags=[]

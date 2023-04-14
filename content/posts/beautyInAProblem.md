@@ -1,6 +1,7 @@
 +++
 title="Exposing the beauty in a problem"
 date=2020-11-03
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

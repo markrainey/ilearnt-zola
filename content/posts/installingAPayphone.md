@@ -1,6 +1,7 @@
 +++
 title="Installing a payphone"
 date=2022-06-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

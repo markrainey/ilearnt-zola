@@ -1,6 +1,7 @@
 +++
 title="Last House Standing"
 date=2022-06-06
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life", "bible"]
 tags=[]

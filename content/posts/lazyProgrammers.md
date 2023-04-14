@@ -1,6 +1,7 @@
 +++
 title="Lazy programmers can be the most productive"
 date=2019-04-12
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","coding"]
 tags=[]

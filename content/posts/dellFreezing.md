@@ -1,6 +1,7 @@
 +++
 title="Solving a Dell laptop freezing"
 date=2022-08-28
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["howto"]
 tags=[]

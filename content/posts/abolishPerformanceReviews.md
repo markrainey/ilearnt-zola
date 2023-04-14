@@ -1,6 +1,7 @@
 +++
 title="Abolish performance reviews"
 date=2018-07-13
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

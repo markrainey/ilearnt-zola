@@ -1,6 +1,7 @@
 +++
 title="Black Mirror - technology ethics and can it be used for wrong?"
 date=2018-11-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

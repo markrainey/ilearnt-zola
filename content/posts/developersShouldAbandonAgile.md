@@ -1,6 +1,7 @@
 +++
 title="Abandoning the baggage of Agile"
 date=2018-07-13
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","coding"]
 tags=[]

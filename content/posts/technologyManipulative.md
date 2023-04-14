@@ -1,6 +1,7 @@
 +++
 title="Making technology less manipulative"
 date=2018-02-14
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["podcast", "technology"]
 tags=[]

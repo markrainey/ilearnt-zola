@@ -1,6 +1,7 @@
 +++
 title="Is it time to renew your novice permit?"
 date=2022-05-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast"]
 tags=[]

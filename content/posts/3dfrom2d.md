@@ -1,6 +1,7 @@
 +++
 title="Creating 3D animations from a 2D photo"
 date=2019-01-02
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

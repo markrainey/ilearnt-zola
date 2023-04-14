@@ -1,6 +1,7 @@
 +++
 title="New ways to generate ideas online"
 date=2020-11-06
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

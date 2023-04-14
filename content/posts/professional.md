@@ -1,6 +1,7 @@
 +++
 title="Professionals do everything necessary - not just the fun bits"
 date=2018-02-02
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Making the explanation of distributed systems fun"
 date=2018-04-18
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Work in 2030"
 date=2022-07-07
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Why? Not no"
 date=2022-07-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

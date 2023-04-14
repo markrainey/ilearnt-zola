@@ -1,6 +1,7 @@
 +++
 title="Is fear of failure really the fear of judgement?"
 date=2022-05-18
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast","bible"]
 tags=[]

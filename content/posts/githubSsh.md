@@ -1,6 +1,7 @@
 +++
 title="Setting up Github SSH"
 date=2018-10-23
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

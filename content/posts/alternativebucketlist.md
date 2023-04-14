@@ -1,6 +1,7 @@
 +++
 title="The alternative bucket list approach to life"
 date=2018-01-24
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

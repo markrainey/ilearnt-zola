@@ -1,6 +1,7 @@
 +++
 title="Yet another productivity book summaries site"
 date=2020-04-09
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

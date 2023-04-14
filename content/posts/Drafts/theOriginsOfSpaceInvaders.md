@@ -1,6 +1,7 @@
 +++
 title="The origins of space invaders"
 date=2023-04-15
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

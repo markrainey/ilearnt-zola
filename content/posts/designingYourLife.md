@@ -1,6 +1,7 @@
 +++
 title="Designing Your Life: How to Build a Well-Lived, Joyful Life by Bill Burnett and Dave Evans"
 date=2018-02-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

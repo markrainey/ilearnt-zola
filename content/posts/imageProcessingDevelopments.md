@@ -1,6 +1,7 @@
 +++
 title="The accelerated pace of image processing developments"
 date=2018-05-16
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="How behaviour can shape the culture"
 date=2020-09-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work","life"]
 tags=[]

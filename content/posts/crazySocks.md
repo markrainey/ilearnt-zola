@@ -1,6 +1,7 @@
 +++
 title="Using crazy socks to make an impact"
 date=2018-01-30
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

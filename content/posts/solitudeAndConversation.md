@@ -1,6 +1,7 @@
 +++
 title="Solitude and conversations lead to great ideas"
 date=2020-09-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

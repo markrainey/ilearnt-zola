@@ -1,6 +1,7 @@
 +++
 title="The fastest way to switch Gmail accounts on Android phones"
 date=2020-04-14
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

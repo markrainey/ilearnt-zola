@@ -1,6 +1,7 @@
 +++
 title="Boost productivity with meeting free days"
 date=2020-03-26
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

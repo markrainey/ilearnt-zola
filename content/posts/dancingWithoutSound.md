@@ -1,6 +1,7 @@
 +++
 title="Dancing without sound"
 date=2018-02-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

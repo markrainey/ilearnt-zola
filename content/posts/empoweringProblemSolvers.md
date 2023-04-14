@@ -1,6 +1,7 @@
 +++
 title="Empowering problem solvers - not offering solutions"
 date=2019-03-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

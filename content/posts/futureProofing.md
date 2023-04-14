@@ -1,6 +1,7 @@
 +++
 title="Future proofing"
 date=2022-06-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="How to run a planning workshop"
 date=2019-03-13
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

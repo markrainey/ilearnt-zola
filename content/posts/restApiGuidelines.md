@@ -1,6 +1,7 @@
 +++
 title="REST API Guidelines"
 date=2018-05-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","coding"]
 tags=[]

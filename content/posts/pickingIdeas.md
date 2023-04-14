@@ -1,6 +1,7 @@
 +++
 title="Picking ideas"
 date=2023-04-07
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

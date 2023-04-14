@@ -1,6 +1,7 @@
 +++
 title="How do crypto-currencies work?"
 date=2018-02-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology", "video"]
 tags=[]

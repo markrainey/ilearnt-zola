@@ -1,6 +1,7 @@
 +++
 title="A remote family breakfast"
 date=2020-03-19
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

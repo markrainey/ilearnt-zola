@@ -1,6 +1,7 @@
 +++
 title="Using AI to find code problems"
 date=2018-03-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

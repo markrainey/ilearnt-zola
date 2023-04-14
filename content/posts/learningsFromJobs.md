@@ -1,6 +1,7 @@
 +++
 title="Learnings from my jobs"
 date=2022-08-02
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","work"]
 tags=[]

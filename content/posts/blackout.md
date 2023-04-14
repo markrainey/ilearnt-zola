@@ -1,6 +1,7 @@
 +++
 title="Blackout by Marc Elsberg"
 date=2018-02-26
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

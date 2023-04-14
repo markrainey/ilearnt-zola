@@ -1,6 +1,7 @@
 +++
 title="Creativity modes"
 date=2022-05-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast"]
 tags=[]

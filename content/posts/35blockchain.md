@@ -1,6 +1,7 @@
 +++
 title="Blockchain - what impact will it have?"
 date=2018-01-22
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["blockchain", "technology"]
 tags=[]

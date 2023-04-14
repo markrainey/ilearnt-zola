@@ -1,6 +1,7 @@
 +++
 title="Free learning list"
 date=2023-04-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="A first encounter with sketchnoting"
 date=2020-05-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

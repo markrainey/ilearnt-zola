@@ -1,6 +1,7 @@
 +++
 title="Fatherly wisdom"
 date=2023-04-12
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

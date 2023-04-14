@@ -1,6 +1,7 @@
 +++
 title="The battle of real versus artificial deadlines"
 date=2019-03-13
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

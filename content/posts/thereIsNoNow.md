@@ -1,6 +1,7 @@
 +++
 title="In a distributed system ... there is no now"
 date=2018-05-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

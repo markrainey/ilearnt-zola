@@ -1,6 +1,7 @@
 +++
 title="A Hitchhiker’s Guide to Consensus Algorithms"
 date=2018-05-22
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

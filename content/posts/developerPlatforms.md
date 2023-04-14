@@ -1,6 +1,7 @@
 +++
 title="Developer platforms must listen to developers in order to grow"
 date=2018-02-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","coding"]
 tags=[]

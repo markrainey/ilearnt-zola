@@ -1,6 +1,7 @@
 +++
 title="Building a collection of habits"
 date=2022-05-14
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life", "podcast"]
 tags=[]

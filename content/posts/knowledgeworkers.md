@@ -1,6 +1,7 @@
 +++
 title="Knowledge workers are assets not costs"
 date=2018-01-24
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

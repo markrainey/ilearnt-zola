@@ -1,6 +1,7 @@
 +++
 title="Technical debt is like Tetris"
 date=2019-03-28
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","coding"]
 tags=[]

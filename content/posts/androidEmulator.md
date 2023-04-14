@@ -1,6 +1,7 @@
 +++
 title="Fix default Android emulator not showing in Visual Studio 2022"
 date=2022-12-15
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["howto","coding"]
 tags=[]

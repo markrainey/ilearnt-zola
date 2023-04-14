@@ -1,6 +1,7 @@
 +++
 title="The value of throwing code away"
 date=2019-02-07
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","coding"]
 tags=[]

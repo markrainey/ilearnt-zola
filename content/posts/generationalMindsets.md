@@ -1,6 +1,7 @@
 +++
 title="Generational Mindsets"
 date=2022-08-24
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

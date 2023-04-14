@@ -1,6 +1,7 @@
 +++
 title="How to easily implement successful remote team retrospectives"
 date=2020-07-04
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

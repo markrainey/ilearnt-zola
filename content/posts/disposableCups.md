@@ -1,6 +1,7 @@
 +++
 title="A simple change can lead to a big Impact"
 date=2018-06-27
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Privacy should be our choice"
 date=2018-03-16
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

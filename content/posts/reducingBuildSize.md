@@ -1,6 +1,7 @@
 +++
 title="Reducing Build Size"
 date=2022-10-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["coding"]
 tags=[]

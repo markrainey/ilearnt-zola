@@ -1,6 +1,7 @@
 +++
 title="The Kubernetes Book by Nigel Poulton"
 date=2018-02-02
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

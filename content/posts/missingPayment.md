@@ -1,6 +1,7 @@
 +++
 title="How to track down a missing international payment"
 date=2018-03-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

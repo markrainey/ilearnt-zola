@@ -1,6 +1,7 @@
 +++
 title="Could Amazon revolutionize the shopping experience?"
 date=2018-01-22
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

@@ -1,6 +1,7 @@
 +++
 title="Taking the pain out of logo design with Tailor Brands"
 date=2018-01-23
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

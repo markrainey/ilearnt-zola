@@ -1,6 +1,7 @@
 +++
 title="Questions to ask yourself before you buy"
 date=2020-11-04
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

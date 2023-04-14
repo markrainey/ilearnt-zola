@@ -1,6 +1,7 @@
 +++
 title="Rewarding the act of volunteering"
 date=2018-01-30
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["blockchain"]
 tags=[]

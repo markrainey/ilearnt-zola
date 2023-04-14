@@ -1,6 +1,7 @@
 +++
 title="So what do you do?"
 date=2022-07-22
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

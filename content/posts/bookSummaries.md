@@ -1,6 +1,7 @@
 +++
 title="Even more book summaries"
 date=2019-06-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

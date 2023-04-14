@@ -1,6 +1,7 @@
 +++
 title="Capturing memories"
 date=2022-06-20
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

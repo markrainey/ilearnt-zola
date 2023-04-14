@@ -1,6 +1,7 @@
 +++
 title="Openness, discussions and success"
 date=2020-11-15
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life", "work"]
 tags=[]

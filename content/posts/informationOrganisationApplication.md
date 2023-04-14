@@ -1,6 +1,7 @@
 +++
 title="Information - Organisation - Application"
 date=2022-09-28
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["podcast","business"]
 tags=[]

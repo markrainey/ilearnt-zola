@@ -1,6 +1,7 @@
 +++
 title="Learning from terminally ill children"
 date=2018-02-10
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

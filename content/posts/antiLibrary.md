@@ -1,6 +1,7 @@
 +++
 title="Antilibrary - should I finish the book I am reading?"
 date=2018-11-26
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

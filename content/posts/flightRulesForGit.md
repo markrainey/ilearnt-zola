@@ -1,6 +1,7 @@
 +++
 title="Git - what to do when it goes wrong"
 date=2018-10-19
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

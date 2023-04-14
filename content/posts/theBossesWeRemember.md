@@ -1,6 +1,7 @@
 +++
 title="The bosses who change our lives"
 date=2018-05-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work","biography"]
 tags=[]

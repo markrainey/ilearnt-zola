@@ -1,6 +1,7 @@
 +++
 title="Are you considering time sensitivity?"
 date=2022-05-24
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast"]
 tags=[]

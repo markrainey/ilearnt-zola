@@ -1,6 +1,7 @@
 +++
 title="The world in photos"
 date=2023-02-02
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

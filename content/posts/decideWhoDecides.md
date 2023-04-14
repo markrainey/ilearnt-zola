@@ -1,6 +1,7 @@
 +++
 title="Decide who decides"
 date=2023-02-12
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business","podcast"]
 tags=[]

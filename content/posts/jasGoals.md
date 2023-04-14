@@ -1,6 +1,7 @@
 +++
 title="JAS goals"
 date=2022-07-28
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

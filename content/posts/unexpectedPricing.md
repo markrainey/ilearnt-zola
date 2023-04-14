@@ -1,6 +1,7 @@
 +++
 title="Surprising the customer with unexpected pricing"
 date=2018-01-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business", "life"]
 tags=[]

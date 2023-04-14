@@ -1,6 +1,7 @@
 +++
 title="Don't let status change the conversation"
 date=2018-02-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

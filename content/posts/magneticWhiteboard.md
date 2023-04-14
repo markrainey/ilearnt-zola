@@ -1,6 +1,7 @@
 +++
 title="Increasing productivity using a simple magnetic whiteboard"
 date=2020-05-17
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

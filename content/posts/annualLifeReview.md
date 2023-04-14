@@ -1,6 +1,7 @@
 +++
 title="Annual life review"
 date=2023-04-09
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

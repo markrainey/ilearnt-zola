@@ -1,6 +1,7 @@
 +++
 title="Twitter to Mastodon"
 date=2023-02-03
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

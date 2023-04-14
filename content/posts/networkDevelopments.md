@@ -1,6 +1,7 @@
 +++
 title="The legacy vulnerability of the Internet"
 date=2018-06-29
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

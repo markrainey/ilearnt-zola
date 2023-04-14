@@ -1,6 +1,7 @@
 +++
 title="A quick fix for missing Gmail notifications on Android phones"
 date=2020-04-30
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

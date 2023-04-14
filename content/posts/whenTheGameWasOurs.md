@@ -1,6 +1,7 @@
 +++
 title="When The Game Was Ours by Jackie MacMullan, Larry Bird, and Magic Johnson"
 date=2018-01-31
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["book"]
 tags=[]

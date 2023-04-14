@@ -1,6 +1,7 @@
 +++
 title="Committing time to stand out from the crowd"
 date=2020-10-31
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life"]
 tags=[]

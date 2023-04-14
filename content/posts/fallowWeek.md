@@ -1,6 +1,7 @@
 +++
 title="How we recharged the team with a fallow week"
 date=2020-09-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

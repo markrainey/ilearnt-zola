@@ -1,6 +1,7 @@
 +++
 title="Numbers for managing teams"
 date=2023-04-10
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["business"]
 tags=[]

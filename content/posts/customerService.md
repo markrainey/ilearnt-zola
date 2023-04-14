@@ -1,6 +1,7 @@
 +++
 title="A Tale of Three Experiences: Customer Service Up Close"
 date=2022-12-31
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","business"]
 tags=[]

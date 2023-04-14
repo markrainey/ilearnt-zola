@@ -1,6 +1,7 @@
 +++
 title="A simple addition to every meeting"
 date=2020-03-23
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["work"]
 tags=[]

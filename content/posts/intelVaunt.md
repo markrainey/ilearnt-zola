@@ -1,6 +1,7 @@
 +++
 title="Smart glasses you might actually wear"
 date=2018-02-05
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]

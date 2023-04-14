@@ -1,6 +1,7 @@
 +++
 title="The term 'Blockchain' is meaningless"
 date=2018-03-08
+authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
 tags=[]
