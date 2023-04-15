@@ -1,5 +1,5 @@
 +++
-title="The origins of space invaders"
+title="The origins of Space Invaders"
 date=2023-04-15
 authors = ["Mark Rainey"]
 [taxonomies]
