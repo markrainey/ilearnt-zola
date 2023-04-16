@@ -1,6 +1,6 @@
 +++
 title="Homemade do not disturb light"
-date=2023-04-18
+date=2023-04-16
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["howto"]
@@ -15,6 +15,8 @@ I have a wife and two children, well one of those has just technically become an
 I bought a cheap LED light strip and there was just enough room under the office door to glue it underneath. I can now turn it on using the remote when I am not to be disturbed. My door glows red underneath and those outside can clearly see not to interrupt.
 
 If they really need me then they can still send me a WhatsApp message to let me know.
+
+<img src="/posts/LedLights.png" title="LED Lights" class="mid-image"><p>
 
 __Links__
 
