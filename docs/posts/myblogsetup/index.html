@@ -30,7 +30,7 @@
 
   <title>
     
-I Learnt | Homemade do not disturb light
+I Learnt | My Blog Setup
 
   </title>
 
@@ -107,7 +107,7 @@ I Learnt | Homemade do not disturb light
 		</div>
         <article class="box">			
           <h1 class="title has-text-info-dark">
-            Homemade do not disturb light
+            My Blog Setup
           </h1>
           <p class="subtitle"></p>
           <div class="columns is-multiline is-gapless">
@@ -115,7 +115,7 @@ I Learnt | Homemade do not disturb light
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2023-04-16">April 16, 2023</time></span>
+  <span><time datetime="2023-04-17">April 17, 2023</time></span>
 </span>
 
             </div>
@@ -125,11 +125,11 @@ I Learnt | Homemade do not disturb light
   <span class="icon">
     <i class="far fa-clock"></i>
   </span>
-  <span>1 min,</span>
+  <span>2 min,</span>
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>180 words</span>
+  <span>282 words</span>
 </span>
 
             </div>
@@ -138,6 +138,15 @@ I Learnt | Homemade do not disturb light
               
 <p>
   Categories:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/technology/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>technology</span>
+    </span>
+  </a>
   
   <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/howto/">
     <span class="icon-text">
@@ -157,14 +166,29 @@ I Learnt | Homemade do not disturb light
             </div>
           </div>
           <div class="content mt-2">
-            <p>My current role means I work full time from home - which is great. The commute is easier, the food is better and having flexibility is great. </p>
+            <p>I thought it was worth documenting my current setup for this blog. Most of it is automated and it costs me nothing to host it.</p>
 <span id="continue-reading"></span>
-<p>I have a wife and two children, well one of those has just technically become an adult. When working from home there are occasions where I prefer not to be interrupted - especially some calls I need to be on. I looked into a bunch of solutions and ended up with a simple homemade approach that works really well. </p>
-<p>I bought a cheap LED light strip and there was just enough room under the office door to glue it underneath. I can now turn it on using the remote when I am not to be disturbed. My door glows red underneath and those outside can clearly see not to interrupt.</p>
-<p>If they really need me then they can still send me a WhatsApp message to let me know.</p>
-<p><img src="/posts/LedLights.png" title="LED Lights" class="mid-image"><p></p>
+<p>I use <a href="https://www.getzola.org/">Zola</a> to generate the site. It is a static website generator that effectively takes markdown documents and a theme and produces the site.</p>
+<p>The theme I use is based on <a href="https://www.getzola.org/themes/deepthought">DeepThought</a> with a few tweaks and customisations. I like this theme as it supports all the features I wanted - such as search, static pages - in a nice clean way.</p>
+<p>When I have written a post I test the site using:</p>
+<blockquote>
+<p>zola serve</p>
+</blockquote>
+<p>And once I am happy with it I build the site with:</p>
+<blockquote>
+<p>zola build --output-dir docs</p>
+</blockquote>
+<p>I host the site using <a href="https://ilearnt.com/posts/myblogsetup/%5BGitHub%20Pages%5D(https://pages.github.com)">Github Pages</a> so publishing the site is simply a case of submitting the changes - I use <a href="https://desktop.github.com/">GitHub Desktop</a> as it is very simple.</p>
+<p>I have also setup the site to use a free <a href="https://www.cloudflare.com/en-gb/plans/free/">Cloudflare</a> account to handle the HTTPS and also improve performance.</p>
+<p>The latest change I have introduced is to use <a href="https://obsidian.md/">Obsidian</a> for creating the posts. I have created a draft folder under the posts folder and set Zola to ignore this folder. I can now create posts whenever I want and only have to move them and update the post date to make them visible.</p>
+<p>I have a template set for each new post so it simplifies the post creation significantly.</p>
 <p><strong>Links</strong></p>
-<p><a href="https://www.amazon.co.uk/Govee-Changing-Multi-Coloured-Decoration-Installation/dp/B07QBMJW6W">Govee LED strip lights</a></p>
+<p><a href="https://www.getzola.org/">Zola</a></p>
+<p><a href="https://www.getzola.org/themes/deepthought">DeepThought</a></p>
+<p><a href="https://pages.github.com">GitHub Pages</a>/</p>
+<p><a href="https://desktop.github.com/">GitHub Desktop</a></p>
+<p><a href="https://www.cloudflare.com/en-gb/plans/free/">Cloudflare</a></p>
+<p><a href="https://obsidian.md/">Obsidian</a></p>
 
           </div>
         </article>
@@ -207,22 +231,14 @@ I Learnt | Homemade do not disturb light
         <nav class="level">
           
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;theoriginsofspaceinvaders&#x2F;">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;donotdisturb&#x2F;">
               <span class="icon mr-2">
                 <i class="fas fa-arrow-circle-left"></i>
               </span>
-              The origins of Space Invaders
+              Homemade do not disturb light
             </a>
           </div>
-           
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;myblogsetup&#x2F;">
-              My Blog Setup<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
-            </a>
-          </div>
-            
+             
         </nav>
       </div>
     </div>

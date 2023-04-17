@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>My Blog Setup</title>
+          <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/myblogsetup/</link>
+          <guid>https://ilearnt.com/posts/myblogsetup/</guid>
+          <description>&lt;p&gt;I thought it was worth documenting my current setup for this blog. Most of it is automated and it costs me nothing to host it.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Homemade do not disturb light</title>
           <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
