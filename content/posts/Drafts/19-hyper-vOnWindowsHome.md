@@ -1,6 +1,6 @@
 +++
 title="Hyper-V on Windows 11 Home"
-date=2023-04-18
+date=2023-04-19
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]

@@ -1,6 +1,6 @@
 +++
 title="A local version of AWS"
-date=2023-04-19
+date=2023-04-22
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]

@@ -1,5 +1,5 @@
 +++
-title="My Blog Setup"
+title="My Free Blog Setup"
 date=2023-04-17
 authors = ["Mark Rainey"]
 [taxonomies]
@@ -37,7 +37,7 @@ __Links__
 
 [DeepThought](https://www.getzola.org/themes/deepthought)
 
-[GitHub Pages](https://pages.github.com)/
+[GitHub Pages](https://pages.github.com)
 
 [GitHub Desktop](https://desktop.github.com/)
 
