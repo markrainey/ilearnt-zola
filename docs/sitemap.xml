@@ -64,6 +64,9 @@
         <loc>https://ilearnt.com/categories/coding/page/2/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/coding/page/3/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/howto/</loc>
     </url>
     <url>
@@ -843,6 +846,10 @@
     <url>
         <loc>https://ilearnt.com/posts/unorthodoxleadership/</loc>
         <lastmod>2018-02-17</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/vscodeanygithubrepo/</loc>
+        <lastmod>2023-04-18</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/weworkiwork/</loc>

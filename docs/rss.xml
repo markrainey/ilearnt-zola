@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>VS Code for any Github repository</title>
+          <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/vscodeanygithubrepo/</link>
+          <guid>https://ilearnt.com/posts/vscodeanygithubrepo/</guid>
+          <description>&lt;p&gt;I came across this &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;KevinAFischer&#x2F;status&#x2F;1647723617055277056&quot;&gt;tweet&lt;&#x2F;a&gt; and had to try it.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>My Free Blog Setup</title>
           <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
