@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Hyper-V on Windows 11 Home</title>
+          <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/hyper-vonwindowshome/</link>
+          <guid>https://ilearnt.com/posts/hyper-vonwindowshome/</guid>
+          <description>&lt;p&gt;I am dabbling with .NET Maui and developing an application for Android.  Tied to that I have just changed laptop. On my previous laptop I had Windows 11 Pro but the new one has Windows 11 Home. &lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>VS Code for any Github repository</title>
           <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
