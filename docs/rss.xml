@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Music to focus</title>
+          <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/musictofocus/</link>
+          <guid>https://ilearnt.com/posts/musictofocus/</guid>
+          <description>&lt;p&gt;When I am working I like to have music in the background to help me focus. I find, like a lot of people, that it needs to be music without lyrics most of the time.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Hyper-V on Windows 11 Home</title>
           <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>

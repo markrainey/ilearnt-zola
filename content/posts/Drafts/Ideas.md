@@ -1,0 +1,2 @@
+Sticker at the hotel
+
