@@ -154,6 +154,9 @@
         <loc>https://ilearnt.com/categories/technology/page/8/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/technology/page/9/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/video/</loc>
     </url>
     <url>
@@ -522,6 +525,10 @@
     <url>
         <loc>https://ilearnt.com/posts/lifeandterminallyill/</loc>
         <lastmod>2018-02-10</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/localstack/</loc>
+        <lastmod>2023-04-21</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/looselyheldroadmap/</loc>

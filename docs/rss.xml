@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>A local version of AWS</title>
+          <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/localstack/</link>
+          <guid>https://ilearnt.com/posts/localstack/</guid>
+          <description>&lt;p&gt;One of the things that has deterred me from doing much personally in the cloud has been the potential cost. &lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Music to focus</title>
           <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
