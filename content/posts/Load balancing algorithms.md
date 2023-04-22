@@ -17,4 +17,4 @@ The article uses simple animated illustrations that show how they each algorithm
 
 __Links__
 
-[Load Balancing](https://samwho.dev/load-balancing)/
+[Load Balancing](https://samwho.dev/load-balancing)

@@ -7,7 +7,17 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Load balancing algorithms</title>
+          <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/load-balancing-algorithms/</link>
+          <guid>https://ilearnt.com/posts/load-balancing-algorithms/</guid>
+          <description>&lt;p&gt;Sometimes you come across a post that is so brilliantly put together you have to share it - and I am not talking about any of my posts. &lt;&#x2F;p&gt;
+&lt;p&gt;This &lt;a href=&quot;https:&#x2F;&#x2F;samwho.dev&#x2F;load-balancing&#x2F;&quot;&gt;post&lt;&#x2F;a&gt; walks the reader through the different algorithms used by load balancers and the pros and cons of each approach. A load balancer takes requests and splits them between different processes (or servers) that can handle them. It&#x27;s aim is to balance the load between them, hence its name.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>A local version of AWS</title>
           <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
