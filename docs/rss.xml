@@ -7,7 +7,25 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Lex, an AI assisted editor</title>
+          <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/aiassistededitor/</link>
+          <guid>https://ilearnt.com/posts/aiassistededitor/</guid>
+          <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lex.page&#x2F;&quot;&gt;Lex.page&lt;&#x2F;a&gt; was one of the first AI assisted editors available. &lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Uncovering the Benefits of AI Search Engine Perplexity.ai</title>
+          <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/perplexityai/</link>
+          <guid>https://ilearnt.com/posts/perplexityai/</guid>
+          <description>&lt;p&gt;I have tried to avoid writing about AI as everyone seems to be doing it however I have found one site that is pretty usable and actually seems to work quite well.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Don&#x27;t steal the towels</title>
           <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>

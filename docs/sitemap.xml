@@ -10,6 +10,12 @@
         <loc>https://ilearnt.com/categories/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/ai/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/ai/page/1/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/bible/</loc>
     </url>
     <url>
@@ -200,6 +206,10 @@
     <url>
         <loc>https://ilearnt.com/posts/abolishperformancereviews/</loc>
         <lastmod>2018-07-13</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/aiassistededitor/</loc>
+        <lastmod>2023-04-25</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/aicodeassistant/</loc>
@@ -703,6 +713,10 @@
     <url>
         <loc>https://ilearnt.com/posts/pausingbeforebuying/</loc>
         <lastmod>2020-11-04</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/perplexityai/</loc>
+        <lastmod>2023-04-24</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/pickingideas/</loc>
