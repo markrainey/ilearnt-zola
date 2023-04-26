@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>How do you define a good hotel?</title>
+          <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/defineagoodhotel/</link>
+          <guid>https://ilearnt.com/posts/defineagoodhotel/</guid>
+          <description>&lt;p&gt;A recent stay at a hotel got me thinking about what defines a good hotel?&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Lex, an AI assisted editor</title>
           <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
