@@ -136,6 +136,12 @@
         <loc>https://ilearnt.com/categories/podcast/page/3/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/podcasts/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/podcasts/page/1/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/technology/</loc>
     </url>
     <url>
@@ -686,6 +692,9 @@
         <loc>https://ilearnt.com/posts/page/21/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/posts/page/22/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/page/3/</loc>
     </url>
     <url>
@@ -733,6 +742,10 @@
     <url>
         <loc>https://ilearnt.com/posts/planningworkshop/</loc>
         <lastmod>2019-03-13</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/podcastswithbookmarks/</loc>
+        <lastmod>2023-04-27</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/preparationmeetsopportunity/</loc>

@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Podcasts with bookmarks</title>
+          <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/podcastswithbookmarks/</link>
+          <guid>https://ilearnt.com/posts/podcastswithbookmarks/</guid>
+          <description>&lt;p&gt;I listen to quite a lot of podcasts. I have been using Spotify but recently switched, most of the time, to using an app called &lt;a href=&quot;https:&#x2F;&#x2F;www.snipd.com&#x2F;&quot;&gt;Snipd&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>How do you define a good hotel?</title>
           <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>

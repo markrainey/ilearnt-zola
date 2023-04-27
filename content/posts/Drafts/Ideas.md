@@ -1,4 +1,4 @@
-
+Hospitality definition
 
 
 https://hbr.org/2023/04/how-to-communicate-a-tough-decision-to-your-team
