@@ -124,6 +124,12 @@
         <loc>https://ilearnt.com/categories/life/page/9/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/misc/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/misc/page/1/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/podcast/</loc>
     </url>
     <url>
@@ -882,6 +888,10 @@
     <url>
         <loc>https://ilearnt.com/posts/theseagulldatacentrealgorithm/</loc>
         <lastmod>2023-04-13</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/thespaceelevator/</loc>
+        <lastmod>2023-04-28</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/throwawaycode/</loc>

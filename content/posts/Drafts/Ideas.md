@@ -1,4 +1,4 @@
-Hospitality definition
+Hospitality definition - https://www.youtube.com/watch?v=bwcyXcOpWVs
 
 
 https://hbr.org/2023/04/how-to-communicate-a-tough-decision-to-your-team
