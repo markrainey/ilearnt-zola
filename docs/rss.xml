@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The difference between service and hospitality</title>
+          <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/serviceandhospitality/</link>
+          <guid>https://ilearnt.com/posts/serviceandhospitality/</guid>
+          <description>&lt;p&gt;What is the difference between service and hospitality?&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The space elevator</title>
           <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>

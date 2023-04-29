@@ -1,6 +1,6 @@
 +++
 title="The difference between service and hospitality"
-date=2023-04-28
+date=2023-04-29
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["podcast","life"]

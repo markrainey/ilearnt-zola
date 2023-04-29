@@ -1,6 +1,6 @@
 +++
 title="Don't tell your friends"
-date=2023-04-29
+date=2023-04-30
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["podcast"]
