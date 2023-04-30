@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Going above and beyond</title>
+          <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/goingaboveandbeyond/</link>
+          <guid>https://ilearnt.com/posts/goingaboveandbeyond/</guid>
+          <description>&lt;p&gt;What does going above and beyond look like?&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The difference between service and hospitality</title>
           <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
