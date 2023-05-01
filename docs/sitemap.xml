@@ -142,6 +142,9 @@
         <loc>https://ilearnt.com/categories/podcast/page/3/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/podcast/page/4/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/podcasts/</loc>
     </url>
     <url>
@@ -366,6 +369,10 @@
     <url>
         <loc>https://ilearnt.com/posts/dontstealthetowels/</loc>
         <lastmod>2023-04-23</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/donttellyourfriends/</loc>
+        <lastmod>2023-05-01</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/empoweringproblemsolvers/</loc>
