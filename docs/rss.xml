@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Giving second chances</title>
+          <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/givingsecondchances/</link>
+          <guid>https://ilearnt.com/posts/givingsecondchances/</guid>
+          <description>&lt;p&gt;Sometimes people need a second chance.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Don&#x27;t tell your friends</title>
           <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
