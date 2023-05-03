@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>There is more to it</title>
+          <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/thereismoretoit/</link>
+          <guid>https://ilearnt.com/posts/thereismoretoit/</guid>
+          <description>&lt;p&gt;Growing up I was a big fan of Jean-Michel Jarre.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Giving second chances</title>
           <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
