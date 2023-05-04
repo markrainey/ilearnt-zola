@@ -100,6 +100,9 @@
         <loc>https://ilearnt.com/categories/life/page/13/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/life/page/14/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/life/page/2/</loc>
     </url>
     <url>
@@ -863,6 +866,10 @@
     <url>
         <loc>https://ilearnt.com/posts/statusconversations/</loc>
         <lastmod>2018-02-17</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/storybank/</loc>
+        <lastmod>2023-05-04</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/tailorbrands/</loc>
