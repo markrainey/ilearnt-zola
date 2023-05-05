@@ -3,7 +3,7 @@ title="What would you attempt if you knew you could not fail?"
 date=2023-05-05
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["life","podcast]
+categories=["life","podcast"]
 tags=[]
 +++
 
@@ -23,7 +23,7 @@ I have a side project and I have hit a bit of a roadblock. I need to do a reason
 
 If I knew I could not fail then I would just plough on and release what I already have then work on it again to improve it.
 
-However there is another way to frame this. Maybe what I need to do is move my definition of success so I cannot fail. Maybe I should set my sights on releasing the app and just getting one person to use it. Given the aim of the application the most important people for me to use it are my parents and I am sure if I released something they would use it - regardless of how well it works or how nice it looks.
+However there is another way to frame this. Maybe what I need to do is move my definition of success so I cannot fail. Maybe I should set my sights on releasing the app and just getting one person to use it. Given the aim of the application, the most important people for me to use it are my parents and I am sure if I released something they would use it - regardless of how well it works or how nice it looks.
 
 For me, this is a much easier target to hit and I know I could do this without failing.
 
