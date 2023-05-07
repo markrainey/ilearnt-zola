@@ -1,5 +1,5 @@
 +++
-title="Story Bank"
+title="Story bank"
 date=2023-05-04
 authors = ["Mark Rainey"]
 [taxonomies]

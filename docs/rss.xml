@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Alarms lost in the noise</title>
+          <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/alarmnoise/</link>
+          <guid>https://ilearnt.com/posts/alarmnoise/</guid>
+          <description>&lt;p&gt;Adding an alert or alarm for a situation you need to monitor should be a good thing but sometimes, depending on how it is done, it can actually make things worse or at a minimum not work as expected.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Learning without action</title>
           <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
@@ -27,7 +36,7 @@
 </description>
       </item>
       <item>
-          <title>Story Bank</title>
+          <title>Story bank</title>
           <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
           <author>Mark Rainey</author>
           <link>https://ilearnt.com/posts/storybank/</link>
