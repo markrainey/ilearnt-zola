@@ -1,6 +1,6 @@
 +++
 title="Should I edit my photos?"
-date=2023-05-11
+date=2023-05-12
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology"]
