@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Letters Live</title>
+          <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/letterslive/</link>
+          <guid>https://ilearnt.com/posts/letterslive/</guid>
+          <description>&lt;p&gt;I once heard that the way you can tell if something is actually funny is that it causes you to laugh out loud even when you are by yourself. It is much easier to laugh at something when surrounded by others.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>No more school</title>
           <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>

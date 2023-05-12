@@ -3,7 +3,7 @@ title="My Free Blog Setup"
 date=2023-04-17
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["technology","howto"]
+categories=["technology","howto","obsidian"]
 tags=[]
 +++
 

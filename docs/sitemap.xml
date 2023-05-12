@@ -136,6 +136,12 @@
         <loc>https://ilearnt.com/categories/misc/page/1/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/obsidian/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/obsidian/page/1/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/podcast/</loc>
     </url>
     <url>
@@ -595,6 +601,10 @@
     <url>
         <loc>https://ilearnt.com/posts/leavingwell/</loc>
         <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/letterslive/</loc>
+        <lastmod>2023-05-12</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/lifeandterminallyill/</loc>
