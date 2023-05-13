@@ -1,6 +1,6 @@
 +++
 title="Sweets can make a difference"
-date=2023-05-16
+date=2023-05-18
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","book"]
@@ -25,7 +25,7 @@ Another [article](https://scitechdaily.com/12-scientifically-tested-ways-to-earn
 6. **Garnished check, please!** - writing, and in some situations drawing, on the back of the check increases tips
 7. **Call customers by name** - servers got the customers’ names from their credit cards and thanked half of them by name when returning the credit cards and charge slips.
 
-Maybe she should try some of these if she doesn't already do them?
+Maybe she should try some of these if she doesn't already do them? And some of them would certainly improve the customer experience, regardless of a better tip.
 
 __Links__
 

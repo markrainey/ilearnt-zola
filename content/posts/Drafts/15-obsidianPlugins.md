@@ -1,6 +1,6 @@
 +++
 title="My most used Obsidian plugins"
-date=2023-05-13
+date=2023-05-15
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","obsidian"]

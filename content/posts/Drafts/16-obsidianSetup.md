@@ -1,6 +1,6 @@
 +++
 title="How I use Obsidian"
-date=2023-05-14
+date=2023-05-16
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","obsidian"]
