@@ -1,5 +1,5 @@
 +++
-title="Surprisingly Familiar"
+title="Surprisingly familiar"
 date=2023-05-13
 authors = ["Mark Rainey"]
 [taxonomies]
