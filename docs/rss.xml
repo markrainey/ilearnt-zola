@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>My most used Obsidian plugins</title>
+          <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/obsidianplugins/</link>
+          <guid>https://ilearnt.com/posts/obsidianplugins/</guid>
+          <description>&lt;p&gt;I have started using &lt;a href=&quot;https:&#x2F;&#x2F;obsidian.md&#x2F;&quot;&gt;Obsidian&lt;&#x2F;a&gt; a lot. One of the things that I really like is the ability to add community plugins to add functionality as required.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Should I edit my photos?</title>
           <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>

@@ -169,6 +169,9 @@
         <loc>https://ilearnt.com/categories/technology/page/1/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/technology/page/10/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/technology/page/2/</loc>
     </url>
     <url>
@@ -705,6 +708,10 @@
     <url>
         <loc>https://ilearnt.com/posts/numbersformanagingteams/</loc>
         <lastmod>2023-04-10</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/obsidianplugins/</loc>
+        <lastmod>2023-05-15</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/octopusdreaming/</loc>
