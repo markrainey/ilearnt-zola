@@ -11,7 +11,7 @@ I thought it might be useful to document how I use Obsidian.
 
 <!-- more -->
 
-I have previously listed the plugins I use and also how I use it to write my blog posts. However I also use it for a bunch of every day tasks.
+I have previously listed the [plugins](/posts/obsidianplugins/) I use and also how I use it to write my blog posts. However I also use it for a bunch of every day tasks.
 
 I have tried a number of different tools and approaches and this one definitely feels the most intuitive, powerful and fun to use. I moved from Evernote originally to writing my own tool and then to Notion. Notion was good but I found it almost too powerful and not very friendly to use. I always had to stop and think before adding information to it in terms of where and what form it should take.
 
