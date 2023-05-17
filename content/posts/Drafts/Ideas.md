@@ -16,3 +16,10 @@ Butterfly effect of actions/stories
 Blog post on how the Monday question adds vulnerability
 
 Multiple conflicting goals force you to innovate. How can we deliver the best quality software quicker?
+
+https://seths.blog/2023/05/please-share-this-idea/
+
+Can you do something good without getting something in return? Giving - Simon Sinek before presentation.
+
+Ali Abdall and Rory Sutherland - Boots advantage cards, tax rebates and bonuses
+

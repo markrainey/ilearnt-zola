@@ -1,6 +1,6 @@
 +++
 title="Why gossiping can impact you"
-date=2023-05-17
+date=2023-05-19
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","book"]

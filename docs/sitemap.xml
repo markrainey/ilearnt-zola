@@ -223,6 +223,9 @@
         <loc>https://ilearnt.com/categories/work/page/5/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/work/page/6/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/</loc>
     </url>
     <url>
@@ -648,6 +651,10 @@
     <url>
         <loc>https://ilearnt.com/posts/measuringsuccess/</loc>
         <lastmod>2020-11-15</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/meetingasynchronicity/</loc>
+        <lastmod>2023-05-17</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/meetingcosts/</loc>

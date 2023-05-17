@@ -13,6 +13,5 @@ If we can simulate video in this way then can we ever still believe video as pro
 
 
 
-__Links__
 
 [Photo Wake-Up: 3D Character Animation from a Single Photo](https://www.youtube.com/watch?v=G63goXc5MyU&app=desktop&persist_app=1)
