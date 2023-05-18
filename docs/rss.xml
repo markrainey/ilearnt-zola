@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Sweets can make a difference</title>
+          <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/sweetsmakeadifference/</link>
+          <guid>https://ilearnt.com/posts/sweetsmakeadifference/</guid>
+          <description>&lt;p&gt;My daughter sometimes works as a waitress at the local Pizza Express. If she has a good night then sometimes she can earn more in tips than her wages (although that is not very often).&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Should meetings be asynchronous?</title>
           <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
