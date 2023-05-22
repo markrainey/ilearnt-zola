@@ -1,6 +1,6 @@
 +++
 title="Spending coins"
-date=2023-05-22
+date=2023-05-23
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","podcast"]
