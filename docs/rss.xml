@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Spending coins</title>
+          <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/thecoins/</link>
+          <guid>https://ilearnt.com/posts/thecoins/</guid>
+          <description>&lt;p&gt;This is a great description of the difference between an introvert and an extrovert.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>End of an era</title>
           <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
