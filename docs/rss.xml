@@ -7,7 +7,25 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The upstream butterfly effect</title>
+          <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/butterflyeffect/</link>
+          <guid>https://ilearnt.com/posts/butterflyeffect/</guid>
+          <description>&lt;p&gt;The butterfly effect famously states that the flapping of the wings of a butterfly somewhere in the world can impact the weather on the other side of the world - a small change can have a huge impact over time.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Downstream to upstream</title>
+          <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/upstream/</link>
+          <guid>https://ilearnt.com/posts/upstream/</guid>
+          <description>&lt;p&gt;How do we move from solving downstream reactive problems to upstream proactive solutions?&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Cultural fit versus contributor</title>
           <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
