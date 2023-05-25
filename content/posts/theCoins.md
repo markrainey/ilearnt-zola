@@ -23,4 +23,6 @@ __Links__
 
 [Courage with Guy Raz](https://simonsinek.com/podcast/episodes/courage-with-guy-raz)/
 
-[Quiet by Susan Cain](https://www.amazon.co.uk/Quiet-Power-Introverts-World-Talking-ebook/dp/B0074YVW1G/)
+[Quiet by Susan Cain](https://amzn.to/427SBSp)
+
+*As an Amazon Associate I earn from qualifying purchases.*

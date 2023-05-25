@@ -21,7 +21,7 @@ In the past I would have called this seeing if they are a cultural fit. However 
 
 I completely agree with this. We want people who don't just fit; they add and contribute to the culture we are building. Evaluating the people we currently have I think that is the case for each of them. They all bring something different - and definitely some bring things others don't (in a good way)!
 
-In the book [Unreasonable Hospitality](https://www.amazon.co.uk/Unreasonable-Hospitality-Remarkable-Giving-People-ebook/dp/B0B13W5GPT/) the author, Will Guidara, talks about his interview process and how he used to have a structured flow and now uses a more conversational approach. He says:
+In the book [Unreasonable Hospitality](https://amzn.to/45yfWiU) the author, Will Guidara, talks about his interview process and how he used to have a structured flow and now uses a more conversational approach. He says:
 
 > You simply have enough of a conversation that you can get to know the person a little bit. Do they seem curious and passionate about what we’re trying to build? Do they have integrity; are they someone I can respect? Is this someone I can imagine myself— and my team— happily spending a lot of time with?
 
@@ -35,4 +35,7 @@ __Links__
 
 [Designing the Future with Brian Collins](https://simonsinek.com/podcast/episodes/designing-the-future-with-brian-collins)/
 
-[Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect](https://www.amazon.co.uk/Unreasonable-Hospitality-Remarkable-Giving-People-ebook/dp/B0B13W5GPT)/
+[Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect](https://amzn.to/45yfWiU)/
+
+*As an Amazon Associate I earn from qualifying purchases.*
+

@@ -21,5 +21,9 @@ __Links__
 
 [#MonkeyFirst](https://www.businessinsider.com/monkeyfirst-google-x-productivity-success-2017-10)
 
-[Questions are the Answer](https://www.amazon.co.uk/dp/B076H27PRJ)
+[Questions are the Answer](https://amzn.to/3OF2dkl)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
 

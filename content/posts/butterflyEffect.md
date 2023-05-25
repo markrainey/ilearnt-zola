@@ -13,7 +13,7 @@ The butterfly effect famously states that the flapping of the wings of a butterf
 
 When I was at university a friend was studying engineering and decided to base his project on the impact of chaos. This was in the "early days" of the term chaos entering the mainstream. He used measuring a guitar case to demonstrate fractal dimensions, plotted 3d charts of his data and also built a double pendulum to demonstrate chaotic activity. He attached different colour LED lights to it and then set it off in a dark room. With our natural persistence of vision it was a pretty cool effect. He was able to very clearly show that a very small difference in the starting position led to a completely unpredictable outcome.
 
-This brings me nicely to a book I recently finished called [Upstream](https://www.amazon.co.uk/gp/product/B07VMVZ9MN/) by Dan Heath. The theme of the book is making changes upstream of something to impact the outcome. This could be preventative approaches to medicine for example, where preventing a health issue is significantly cheaper and easier than dealing with the health complications further down the line. He also gives other examples including education.
+This brings me nicely to a book I recently finished called [Upstream](https://amzn.to/3BVqRpj) by Dan Heath. The theme of the book is making changes upstream of something to impact the outcome. This could be preventative approaches to medicine for example, where preventing a health issue is significantly cheaper and easier than dealing with the health complications further down the line. He also gives other examples including education.
 
 He explains nicely how to look at the difference between upstream and downstream actions:
 
@@ -37,6 +37,7 @@ The key takeaway is be conscious of decisions you make, things you say, actions 
 
 __Links__
 
-[Upstream by Dan Heath](https://www.amazon.co.uk/gp/product/B07VMVZ9MN/) 
+[Upstream by Dan Heath](https://amzn.to/3BVqRpj) 
 
+*As an Amazon Associate I earn from qualifying purchases.*
 

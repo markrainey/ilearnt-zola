@@ -11,7 +11,7 @@ I am a lark.
 
 <!-- more -->
 
-In the book [Time Wise](https://www.amazon.co.uk/Time-Wise-instant-international-bestseller-ebook/dp/B0B6QZ7TNM) by Amantha Imber she discusses the three main types of people and their alertness through various times of the day. It impacts when they are most productive for certain types of tasks. This has been written about in numerous other places but she summarises it really well:
+In the book [Time Wise](https://amzn.to/3II2EXn) by Amantha Imber she discusses the three main types of people and their alertness through various times of the day. It impacts when they are most productive for certain types of tasks. This has been written about in numerous other places but she summarises it really well:
 
 | **Larks**                          |    |
 | ------------------------------ | ------------ |
@@ -37,5 +37,8 @@ My wife is probably an owl. She likes staying up late and definitely likes morni
 
 __Links__
 
-[Time Wise](https://www.amazon.co.uk/Time-Wise-instant-international-bestseller-ebook/dp/B0B6QZ7TNM)
+[Time Wise](https://amzn.to/3II2EXn)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
 

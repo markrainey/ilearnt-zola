@@ -28,4 +28,7 @@ __Links__
 
 [Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
 
-[Build by Tony Fadell](https://www.amazon.co.uk/Build-Unorthodox-Guide-Making-Things-ebook/dp/B0B7P28MDC)
+[Build by Tony Fadell](https://amzn.to/3C0ikkQ)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+

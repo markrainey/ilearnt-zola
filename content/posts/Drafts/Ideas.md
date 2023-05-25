@@ -20,3 +20,6 @@ https://seths.blog/2023/05/please-share-this-idea/
 Can you do something good without getting something in return? Giving - Simon Sinek before presentation.
 
 Ali Abdall and Rory Sutherland - Boots advantage cards, tax rebates and bonuses
+
+
+*As an Amazon Associate I earn from qualifying purchases.*

@@ -11,7 +11,7 @@ My daughter sometimes works as a waitress at the local Pizza Express. If she has
 
 <!-- more -->
 
-In the book [59 Seconds](<[59 Seconds](https://www.amazon.co.uk/59-Seconds-Think-Little-Change-ebook/dp/B003GUBINE)>) it quotes an experiment where changing the number of sweets and how they were given affected the tip at the end of a meal.
+In the book [59 Seconds](https://amzn.to/3IBjkjq) it quotes an experiment where changing the number of sweets and how they were given affected the tip at the end of a meal.
 
 > In the control condition, diners were unlucky enough to receive their bills without any sweets at all. A second group was given a single sweet. Compared to the control group, this simple gesture of kindness resulted in a measly 3 per cent increase in tips. A third group of customers received two sweets each, and, compared to the control group, gave 14 per cent larger tips. Not bad. However, here comes the really clever bit. In the fourth and final condition, the waiters were asked to present the bill to customers along with one sweet each, then, just as they were turning away from the table, reach into their pocket and quickly hand everyone a second sweet. In terms of sweets per customer, everyone ended up with exactly the same number of sweets as those in the third group. But psychologically speaking, this was very, very different. The waiter had just carried out an unnecessary and nice favour, and, because of that, tipping increased by an impressive 23 per cent. 
 
@@ -29,7 +29,9 @@ Maybe she should try some of these if she doesn't already do them? And some of t
 
 __Links__
 
-[59 Seconds](https://www.amazon.co.uk/59-Seconds-Think-Little-Change-ebook/dp/B003GUBINE) 
+[59 Seconds](https://amzn.to/3IBjkjq) 
 
 [12 Scientifically Tested Ways to Earn More Tips ](https://scitechdaily.com/12-scientifically-tested-ways-to-earn-more-tips)
+
+*As an Amazon Associate I earn from qualifying purchases.*
 

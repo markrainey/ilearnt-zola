@@ -7,7 +7,7 @@ categories=["life","book"]
 tags=[]
 +++
 
-In the book [59 Seconds](https://www.amazon.co.uk/59-Seconds-Think-Little-Change-ebook/dp/B003GUBINE) by Richard Wiseman he talks about an effect called "Spontaneous Trait Transference".
+In the book [59 Seconds](https://amzn.to/3IBjkjq) by Richard Wiseman he talks about an effect called "Spontaneous Trait Transference".
 
 <!-- more -->
 
@@ -19,5 +19,6 @@ So, next time you consider gossiping or talking bad of someone think about wheth
 
 __Links__
 
-[59 Seconds](https://www.amazon.co.uk/59-Seconds-Think-Little-Change-ebook/dp/B003GUBINE) 
+[59 Seconds](https://amzn.to/3IBjkjq) 
 
+*As an Amazon Associate I earn from qualifying purchases.*

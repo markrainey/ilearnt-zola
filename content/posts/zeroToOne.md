@@ -11,4 +11,6 @@ I had read a lot of good things about this book and it had sat on my Kindle for 
 
 __Links__
 
-[Zero To One](https://www.amazon.co.uk/Zero-One-Notes-Startups-Future/dp/0804139296)
+[Zero To One](https://amzn.to/3MW8IxW)
+
+*As an Amazon Associate I earn from qualifying purchases.*

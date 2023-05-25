@@ -11,7 +11,7 @@ What is the difference between service and hospitality?
 
 <!-- more -->
 
-I have had a book on my Amazon wishlist for a while - [Unreasonable Hospitality](https://www.amazon.co.uk/dp/B0B13W5GPT) by Will Guidara. I've not read it yet but I came across a [podcast](https://simonsinek.com/podcast/episodes/unreasonable-hospitality-with-will-guidara/) where he was interviewed by Simon Sinek so it piqued my interest.
+I have had a book on my Amazon wishlist for a while - [Unreasonable Hospitality](https://amzn.to/45yfWiU) by Will Guidara. I've not read it yet but I came across a [podcast](https://simonsinek.com/podcast/episodes/unreasonable-hospitality-with-will-guidara/) where he was interviewed by Simon Sinek so it piqued my interest.
 
 Will Guidara took over the restaurant Eleven Madison Park and turned it into the best restaurant in the world. He did this by focussing on the experience, not just on the food. 
 
@@ -35,9 +35,12 @@ Service can be great but hospitality makes the difference.
 
 __Links__
 
-[Unreasonable Hospitality](https://www.amazon.co.uk/dp/B0B13W5GPT) 
+[Unreasonable Hospitality](https://amzn.to/45yfWiU) 
 
 [Unreasonable Hospitality with Will Guidara podcast](https://simonsinek.com/podcast/episodes/unreasonable-hospitality-with-will-guidara/)
 
 [Rock Church](https://therockchurchuk.com/)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
 

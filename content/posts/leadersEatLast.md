@@ -26,4 +26,7 @@ He explains the need to be in the "circle of safety" (think large herds together
 
 __Links__
 
-[Leader Eat Last](https://www.amazon.co.uk/Leaders-Eat-Last-Together-Others-ebook/dp/B00HFIBQ3A/ref=sr_1_1)
+[Leader Eat Last](https://amzn.to/3WGoP63)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+

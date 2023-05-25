@@ -11,4 +11,6 @@ Took me a little while to get into this book. It starts out in a school where a 
 
 __Links__
 
-[Armada](https://www.amazon.co.uk/dp/B00UR2SJZY)
+[Armada](https://amzn.to/3WAocej)
+
+*As an Amazon Associate I earn from qualifying purchases.*

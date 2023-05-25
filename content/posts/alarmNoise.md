@@ -11,7 +11,7 @@ Adding an alert or alarm for a situation you need to monitor should be a good th
 
 <!-- more -->
 
-In the book [Upstream](https://www.amazon.co.uk/Upstream-solve-problems-before-happen-ebook/dp/B07VMVZ9MN) by Dan Heath there is a section about alarms (my emphasis) ...
+In the book [Upstream](https://amzn.to/3BVqRpj) by Dan Heath there is a section about alarms (my emphasis) ...
 
 >Have you ever rolled your eyes when you heard a fire alarm? That’s alarm fatigue, and it’s a critical problem. A group of researchers studied five ICUs (intensive care units), treating 461 patients, for a month in 2013. There were almost 400,000 audible alarms logged in a month, which broke down to 187 audible alarms per bed per day. **When everything is cause for alarm, nothing is cause for alarm**. As we design early-warning systems, we should keep these questions in mind: 
 >- Will the warning give us enough time to act effectively? (If not, why bother?) 
@@ -37,4 +37,6 @@ Alarms are important and useful but there must be a high signal to noise ratio o
 
 __Links__
 
-[Upstream: How to solve problems before they happen](https://www.amazon.co.uk/Upstream-solve-problems-before-happen-ebook/dp/B07VMVZ9MN)
+[Upstream: How to solve problems before they happen](https://amzn.to/3BVqRpj)
+
+*As an Amazon Associate I earn from qualifying purchases.*

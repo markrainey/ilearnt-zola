@@ -13,7 +13,8 @@ I would recommend this book and would probably recommend it even more if I had b
 
 __Links__
 
-[Designing Your Life: How to Build a Well-Lived, Joyful Life by Bill Burnett and Dave Evans](https://www.amazon.co.uk/Designing-Your-Life-Perfect-Career/dp/1784701173/ref=asap_bc?ie=UTF8)
+[Designing Your Life: How to Build a Well-Lived, Joyful Life by Bill Burnett and Dave Evans](https://amzn.to/3BYJJnv)
 
 [Official website](http://designingyour.life/)
 
+*As an Amazon Associate I earn from qualifying purchases.*

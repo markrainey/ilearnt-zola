@@ -31,7 +31,9 @@ __Links__
 
 [Equinoxe: Decoding Jean-Michel Jarre’s Synthesizer Masterpiece - YouTube](https://www.youtube.com/watch?v=F73hF3mZSZo)
 
-[Jurgen Klopp biography](https://www.amazon.co.uk/gp/product/1785033638/)
+[Jurgen Klopp biography](https://amzn.to/3qc7sOt)
 
-[Pep Confidential biography](https://www.amazon.co.uk/gp/product/B00NVFNIS2/)
+[Pep Confidential biography](https://amzn.to/3MycBaT)
+
+*As an Amazon Associate I earn from qualifying purchases.*
 

@@ -15,5 +15,7 @@ I would recommend this book if you want an introduction to Kubernetes but not if
 
 __Links__
 
-[The Kubernetes Book](https://www.amazon.co.uk/Kubernetes-Book-Nigel-Poulton/dp/1521823634/ref=sr_1_1)
+[The Kubernetes Book](https://amzn.to/42cRgJP)
+
+*As an Amazon Associate I earn from qualifying purchases.*
 

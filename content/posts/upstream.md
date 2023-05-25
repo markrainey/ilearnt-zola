@@ -11,7 +11,7 @@ How do we move from solving downstream reactive problems to upstream proactive s
 
 <!-- more -->
 
-In the book [Upstream](https://www.amazon.co.uk/gp/product/B07VMVZ9MN/) by Dan Heath he describes how we can look to solve problems upstream of us, before they actually become problems, and the challenges of implementing this.
+In the book [Upstream](https://amzn.to/3BVqRpj) by Dan Heath he describes how we can look to solve problems upstream of us, before they actually become problems, and the challenges of implementing this.
 
 He highlights that there are three main barriers to achieving this:
 
@@ -55,7 +55,8 @@ Let's see where it leads - or should that be flows?
 
 __Links__
 
-[Upstream by Dan Heath](https://www.amazon.co.uk/gp/product/B07VMVZ9MN/) 
+[Upstream by Dan Heath](https://amzn.to/3BVqRpj) 
 
 [The Jam Experiment](https://medium.com/@FlorentGeerts/the-jam-experiment-how-choice-overloads-makes-consumers-buy-less-d610f8c37b9b)
 
+*As an Amazon Associate I earn from qualifying purchases.*

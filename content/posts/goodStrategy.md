@@ -31,4 +31,6 @@ My key highlights:
 
 __Links__
 
-[Good Strategy/Bad Strategy](https://www.amazon.co.uk/Good-Strategy-Bad-difference-matters-ebook/dp/B005331U7Q/ref=sr_1_1)
+[Good Strategy/Bad Strategy](https://amzn.to/3oE5llT)
+
+*As an Amazon Associate I earn from qualifying purchases.*

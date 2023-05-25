@@ -16,8 +16,12 @@ I bought a cheap LED light strip and there was just enough room under the office
 
 If they really need me then they can still send me a WhatsApp message to let me know.
 
-<img src="/posts/LedLights.png" title="LED Lights" class="mid-image"><p>
+<img src="/posts/LedLights.png" title="LED Lights" class="mid-image"><p></p>
 
 __Links__
 
-[Govee LED strip lights](https://www.amazon.co.uk/Govee-Changing-Multi-Coloured-Decoration-Installation/dp/B07QBMJW6W)
+[Govee LED strip lights](https://amzn.to/3ozbdNe)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+

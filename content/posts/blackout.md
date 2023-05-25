@@ -13,5 +13,6 @@ It highlights how much society now relies on electricity and the impact of its r
 
 __Links__
 
-[Blackout](https://www.amazon.co.uk/dp/B01FCQLSPC)
+[Blackout](https://amzn.to/3IBiYcA)
 
+*As an Amazon Associate I earn from qualifying purchases.*

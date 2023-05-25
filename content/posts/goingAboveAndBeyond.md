@@ -29,8 +29,11 @@ The key is not treating people as a commodity but as a unique individual - look 
 
 __Links__
 
-[Unreasonable Hospitality](https://www.amazon.co.uk/dp/B0B13W5GPT) 
+[Unreasonable Hospitality](https://amzn.to/45yfWiU) 
 
 [The Secret Ingredients of Great Hospitality | Will Guidara | TED - YouTube](https://www.youtube.com/watch?v=bwcyXcOpWVs)
 
 [Unreasonable Hospitality with Will Guidara podcast](https://simonsinek.com/podcast/episodes/unreasonable-hospitality-with-will-guidara/)
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
