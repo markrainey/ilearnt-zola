@@ -1,6 +1,6 @@
 +++
 title="The upstream butterfly effect"
-date=2023-05-25
+date=2023-05-26
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["life","work","book"]
