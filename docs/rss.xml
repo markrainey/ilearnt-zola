@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The legend of Trevor</title>
+          <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/legendoftrevor/</link>
+          <guid>https://ilearnt.com/posts/legendoftrevor/</guid>
+          <description>&lt;p&gt;It is amazing how one small thing can set the tone or the culture going forward.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The upstream butterfly effect</title>
           <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>

@@ -235,6 +235,9 @@
         <loc>https://ilearnt.com/categories/work/page/6/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/work/page/7/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/</loc>
     </url>
     <url>
@@ -628,6 +631,10 @@
     <url>
         <loc>https://ilearnt.com/posts/leavingwell/</loc>
         <lastmod>2019-03-18</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/legendoftrevor/</loc>
+        <lastmod>2023-05-27</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/letterslive/</loc>

@@ -1,6 +1,6 @@
 +++
 title="Show seconds in the Windows 11 taskbar"
-date=2023-05-26
+date=2023-05-29
 authors = ["Mark Rainey"]
 [taxonomies]
 categories=["technology","howto"]

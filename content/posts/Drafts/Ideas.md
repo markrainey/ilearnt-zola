@@ -21,5 +21,12 @@ Can you do something good without getting something in return? Giving - Simon Si
 
 Ali Abdall and Rory Sutherland - Boots advantage cards, tax rebates and bonuses
 
+What experiments can I run where I am not worried about it being a long term commitment?
+
+Collaboration article
+
+
+
+<img src="/posts/name.png" title="Title" class="mid-image"></img><p></p>
 
 *As an Amazon Associate I earn from qualifying purchases.*
