@@ -1,9 +1,9 @@
 +++
-title=""
+title="Focus on  the question"
 date=2023-05-28
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=[""]
+categories=["life"]
 tags=[]
 +++
 

@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Focus on  the question</title>
+          <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/questionfocus/</link>
+          <guid>https://ilearnt.com/posts/questionfocus/</guid>
+          <description>&lt;p&gt;Questions are underrated. Lots of people focus on answers when they should be focussing on identifying the right question to ask.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The legend of Trevor</title>
           <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
