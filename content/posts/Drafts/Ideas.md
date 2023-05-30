@@ -25,6 +25,8 @@ What experiments can I run where I am not worried about it being a long term com
 
 Collaboration article
 
+The fact that you “can’t do” something can be embarrassing. But if you are “learning to do” something that is admirable. There are only tiny baby steps between can’t and learning.
+
 
 
 <img src="/posts/name.png" title="Title" class="mid-image"></img><p></p>

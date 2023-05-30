@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Don&#x27;t be afraid to ask the stupid question</title>
+          <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/askthestupidquestion/</link>
+          <guid>https://ilearnt.com/posts/askthestupidquestion/</guid>
+          <description>&lt;p&gt;Ego and the fear of how we appear to others can get in the way sometimes. We don&#x27;t want to appear stupid so we avoid finding out things we don&#x27;t know.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Show seconds in the Windows 11 taskbar</title>
           <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
