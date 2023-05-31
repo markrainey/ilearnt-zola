@@ -3,7 +3,7 @@ title="Don't be afraid to ask the stupid question"
 date=2023-05-30
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["life","work"]
+categories=["life","work","book"]
 tags=[]
 +++
 

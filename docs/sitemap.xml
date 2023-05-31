@@ -46,6 +46,9 @@
         <loc>https://ilearnt.com/categories/book/page/3/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/book/page/4/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/business/</loc>
     </url>
     <url>
@@ -626,6 +629,10 @@
     <url>
         <loc>https://ilearnt.com/posts/learningsfromjobs/</loc>
         <lastmod>2022-08-02</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/learningtodo/</loc>
+        <lastmod>2023-05-31</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/learningwithoutaction/</loc>

@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Moving from &#x27;can&#x27;t&#x27; to &#x27;learning to do&#x27;</title>
+          <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/learningtodo/</link>
+          <guid>https://ilearnt.com/posts/learningtodo/</guid>
+          <description>&lt;p&gt;It is easy to decide that you can&#x27;t do something.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Don&#x27;t be afraid to ask the stupid question</title>
           <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
