@@ -13,7 +13,7 @@ It is easy to decide that you can't do something.
 
 When we encounter something difficult or what we deem to be beyond our ability we often say we can't do it. Sometimes it is true, we can't do it but sometimes it is just an excuse. I know that I can't dunk a basketball on a full height ring however there are other challenges that I could probably achieve that I still say I can't do.
 
-In the book [Excellent Advice for Living](https://amzn.to/3WLHCgj), Kevin Kelley makes a statement about this: 
+In the book [Excellent Advice for Living](https://amzn.to/3WLHCgj), Kevin Kelly makes a statement about this: 
 
 > The fact that you “can’t do” something can be embarrassing. But if you are “learning to do” something that is admirable. There are only tiny baby steps between can’t and learning.
 

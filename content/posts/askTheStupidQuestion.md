@@ -11,7 +11,7 @@ Ego and the fear of how we appear to others can get in the way sometimes. We don
 
 <!-- more -->
 
-In the book [Excellent Advice for Living](https://amzn.to/3WLHCgj) by Kevin Kelley there is a quote:
+In the book [Excellent Advice for Living](https://amzn.to/3WLHCgj) by Kevin Kelly there is a quote:
 
 > Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 
