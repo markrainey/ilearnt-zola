@@ -30,3 +30,5 @@ __Links__
 [3 Habits To Improve Your Life with James Clear](https://lewishowes.com/podcast/3-habits-to-improve-your-life-w-james-clear-ep-1395)/
 
 [Atomic Habits](https://amzn.to/3Crh76J)
+
+*As an Amazon Associate I earn from qualifying purchases.*
