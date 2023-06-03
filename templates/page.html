@@ -24,7 +24,7 @@
             <div class="column is-4 has-text-right-desktop">
               {{ macros::page_content_metadata(page=page) }}
             </div>
-            <div class="column">
+            <div class="column has-text-grey">
               {% if page.taxonomies.categories %}
               {{ macros::render_categories(categories=page.taxonomies.categories) }}
               {% endif %}

@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>What makes a good holiday?</title>
+          <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/goodholiday/</link>
+          <guid>https://ilearnt.com/posts/goodholiday/</guid>
+          <description>&lt;p&gt;We are not a family that likes to just sit on the beach. We may spend a little time doing that - everyone needs to relax - but we tend to prefer doing and seeing things.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Helping habits happen</title>
           <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
