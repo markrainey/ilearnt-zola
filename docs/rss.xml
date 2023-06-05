@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Design for the few</title>
+          <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/designforthefew/</link>
+          <guid>https://ilearnt.com/posts/designforthefew/</guid>
+          <description>&lt;p&gt;How do you design a product that is going to be used by a lot of people?&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Beware of the normal</title>
           <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
