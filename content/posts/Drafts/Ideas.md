@@ -9,26 +9,17 @@ From a book I am reading, came across this today (Time Wise):
 
 Barnes’ rules around meetings and respecting people’s time were echoed in Japan when Microsoft introduced a FDW trial. They had three rules. First, you had to use Microsoft Teams for meetings. Second, no meeting could be longer than half an hour. Third, no more than five people could be invited to a meeting. Productivity went up by 39.9 per cent based on these three rules alone. I suspect happiness skyrocketed, too
 
-Butterfly effect of actions/stories
-
-[CASTLE Method](https://www.youtube.com/watch?v=bXLZ8I7s8tw)
-
 Multiple conflicting goals force you to innovate. How can we deliver the best quality software quicker?
 
 https://seths.blog/2023/05/please-share-this-idea/
 
 Can you do something good without getting something in return? Giving - Simon Sinek before presentation.
 
-Ali Abdall and Rory Sutherland - Boots advantage cards, tax rebates and bonuses
-
 What experiments can I run where I am not worried about it being a long term commitment?
 
 Collaboration article
 
-The fact that you “can’t do” something can be embarrassing. But if you are “learning to do” something that is admirable. There are only tiny baby steps between can’t and learning.
 
-[title](/posts/name/)
-
-<img src="/posts/name.png" title="Title" class="mid-image"></img><p></p>
-
-*As an Amazon Associate I earn from qualifying purchases.*
+Wheat fields course
+Cryptography explanation
+Favourite books
