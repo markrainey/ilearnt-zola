@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://ilearnt.com/sitemap.xml

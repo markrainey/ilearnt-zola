@@ -1,5 +1,5 @@
 +++
-title="Organised Chaos"
+title="Organised chaos"
 date=2023-06-09
 authors = ["Mark Rainey"]
 [taxonomies]
@@ -15,7 +15,7 @@ There is a stereotype of the mad inventor who works from his garden shed. Well, 
 
 However I am not going to talk about all those. For those with an untrained eye his workshop looks like a bit of a mess - although it is much tidier than it used to be. However I like to call it "organised chaos".
 
-<img src="/posts/workshop.png" title="Workshop" class="mid-image"></img><p></p>
+<img src="/posts/Workshop.png" title="Workshop" class="mid-image"></img><p></p>
 
 There are labelled boxed on the wall with random collections of things in them. There are currently three "normal" printers and a 3d printer. There are a selection of computer and electronics books on the shelves from the 1980s onwards, the newest is probably about 20 years old. 
 
