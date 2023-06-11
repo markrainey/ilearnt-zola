@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The restaurant of mistaken orders</title>
+          <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/mistakenorders/</link>
+          <guid>https://ilearnt.com/posts/mistakenorders/</guid>
+          <description>&lt;p&gt;I came across this YouTube video with an intriguing title - &amp;quot;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=QvbSCLpwq6w&quot;&gt;The Restaurant of Mistaken Orders&lt;&#x2F;a&gt;&amp;quot;. Having recently read a lot about hospitality this piqued my interest.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>How might we</title>
           <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
