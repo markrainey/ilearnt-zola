@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>How might we</title>
+          <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/howmightwe/</link>
+          <guid>https://ilearnt.com/posts/howmightwe/</guid>
+          <description>&lt;p&gt;The simple use of the phrase &amp;quot;how might we&amp;quot; can open up design discussions and improve company mission statements.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Organised chaos</title>
           <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
