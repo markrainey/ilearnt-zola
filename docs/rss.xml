@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>An artist in the family</title>
+          <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/artistinthefamily/</link>
+          <guid>https://ilearnt.com/posts/artistinthefamily/</guid>
+          <description>&lt;p&gt;My grandfather was a skilled artist - well in my eyes he was. He also taught art at secondary school. &lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The restaurant of mistaken orders</title>
           <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
