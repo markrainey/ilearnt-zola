@@ -49,6 +49,9 @@
         <loc>https://ilearnt.com/categories/book/page/4/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/book/page/5/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/business/</loc>
     </url>
     <url>
@@ -319,6 +322,10 @@
     <url>
         <loc>https://ilearnt.com/posts/beautyinaproblem/</loc>
         <lastmod>2020-11-03</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/besurprised/</loc>
+        <lastmod>2023-06-14</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/betterideaprompts/</loc>
@@ -883,6 +890,9 @@
     </url>
     <url>
         <loc>https://ilearnt.com/posts/page/27/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/page/28/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/page/3/</loc>
