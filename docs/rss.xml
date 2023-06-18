@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Bad estimation</title>
+          <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/badestimation/</link>
+          <guid>https://ilearnt.com/posts/badestimation/</guid>
+          <description>&lt;p&gt;Estimation is a very difficult task - depending on what is being estimated.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Delete your meetings</title>
           <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
