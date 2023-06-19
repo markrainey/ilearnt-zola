@@ -130,6 +130,9 @@
         <loc>https://ilearnt.com/categories/life/page/2/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/life/page/20/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/life/page/3/</loc>
     </url>
     <url>
@@ -1209,6 +1212,10 @@
     <url>
         <loc>https://ilearnt.com/posts/whynow/</loc>
         <lastmod>2019-01-30</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/workexperience/</loc>
+        <lastmod>2023-06-19</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/workin2030/</loc>
