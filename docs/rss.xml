@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The best and worst</title>
+          <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/thebestandworst/</link>
+          <guid>https://ilearnt.com/posts/thebestandworst/</guid>
+          <description>&lt;p&gt;I have been to see two musicals in London in the last few months - one was the best and one was the worst I have ever seen.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Cut to gain</title>
           <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
