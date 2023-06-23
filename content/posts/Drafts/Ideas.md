@@ -1,11 +1,10 @@
+https://www.makeuseof.com/map-view-google-photos-see-images-on-map/
+
 https://hbr.org/2023/04/how-to-communicate-a-tough-decision-to-your-team
 
 https://www.mechanical-orchard.com/post/friction-over-debt
 
 
-Four day week ...
-
-Barnes’ rules around meetings and respecting people’s time were echoed in Japan when Microsoft introduced a FDW trial. They had three rules. First, you had to use Microsoft Teams for meetings. Second, no meeting could be longer than half an hour. Third, no more than five people could be invited to a meeting. Productivity went up by 39.9 per cent based on these three rules alone. I suspect happiness skyrocketed, too
 
 Multiple conflicting goals force you to innovate. How can we deliver the best quality software quicker?
 

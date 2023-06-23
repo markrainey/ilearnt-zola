@@ -1,5 +1,6 @@
 +++
 title="Art - theft, forgery and wow"
+description="An art forger, tracking down stolen paintings and a Caravaggio"
 date=2023-06-13
 authors = ["Mark Rainey"]
 [taxonomies]

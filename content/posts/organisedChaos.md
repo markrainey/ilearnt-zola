@@ -1,5 +1,6 @@
 +++
 title="Organised chaos"
+description="Organisation in a seemingly chaotic environment"
 date=2023-06-09
 authors = ["Mark Rainey"]
 [taxonomies]

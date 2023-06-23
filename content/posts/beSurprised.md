@@ -1,5 +1,6 @@
 +++
 title="Be surprised"
+description="You only learn when something is outside your mental models"
 date=2023-06-14
 authors = ["Mark Rainey"]
 [taxonomies]

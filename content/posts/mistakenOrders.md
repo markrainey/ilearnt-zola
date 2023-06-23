@@ -1,5 +1,6 @@
 +++
 title="The restaurant of mistaken orders"
+description="A restaurant that thrives despite getting orders wrong"
 date=2023-06-11
 authors = ["Mark Rainey"]
 [taxonomies]

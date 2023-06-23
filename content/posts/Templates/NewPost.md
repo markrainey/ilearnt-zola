@@ -1,5 +1,6 @@
 +++
 title=""
+description=""
 date={{date}}
 authors = ["Mark Rainey"]
 [taxonomies]
@@ -12,4 +13,5 @@ tags=[]
 
 __Links__
 
-[]()
+
+*As an Amazon Associate I earn from qualifying purchases.*

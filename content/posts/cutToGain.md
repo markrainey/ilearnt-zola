@@ -1,5 +1,6 @@
 +++
 title="Cut to gain"
+description="Meeting changes and a four day week lead to better productivity"
 date=2023-06-21
 authors = ["Mark Rainey"]
 [taxonomies]

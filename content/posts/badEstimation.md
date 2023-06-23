@@ -1,5 +1,6 @@
 +++
 title="Bad estimation"
+description="Why is estimation so difficult?"
 date=2023-06-18
 authors = ["Mark Rainey"]
 [taxonomies]

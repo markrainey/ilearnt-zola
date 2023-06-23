@@ -1,5 +1,6 @@
 +++
 title="Do your best"
+description="A reframing of 'do your best'"
 date=2023-06-20
 authors = ["Mark Rainey"]
 [taxonomies]

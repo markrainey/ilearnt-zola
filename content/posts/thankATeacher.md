@@ -1,5 +1,6 @@
 +++
 title="Thank a teacher"
+description="Teachers make a difference and how I was able to thank one of mine"
 date=2023-06-15
 authors = ["Mark Rainey"]
 [taxonomies]

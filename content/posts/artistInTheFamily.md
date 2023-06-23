@@ -1,5 +1,6 @@
 +++
 title="An artist in the family"
+description="My grandfather was a skilled artist and woodcarver"
 date=2023-06-12
 authors = ["Mark Rainey"]
 [taxonomies]

@@ -1,5 +1,6 @@
 +++
 title="Value other peoples time"
+description="Punctuality is respecting other peoples time"
 date=2023-06-08
 authors = ["Mark Rainey"]
 [taxonomies]

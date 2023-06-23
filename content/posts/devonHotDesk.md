@@ -1,5 +1,6 @@
 +++
 title="A hot desk in north Devon"
+description="An inexpensive place to work in north Devon"
 date=2023-06-07
 authors = ["Mark Rainey"]
 [taxonomies]

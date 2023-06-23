@@ -1,5 +1,6 @@
 +++
 title="The best and worst"
+description="Groundhog Day - possibly the best musical currently in London"
 date=2023-06-22
 authors = ["Mark Rainey"]
 [taxonomies]

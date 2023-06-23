@@ -1,5 +1,6 @@
 +++
 title="Delete your meetings"
+description="Deleting all your meetings can free up your time and remove the noise"
 date=2023-06-17
 authors = ["Mark Rainey"]
 [taxonomies]

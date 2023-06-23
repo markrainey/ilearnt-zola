@@ -1,5 +1,6 @@
 +++
 title="School work experience"
+description="Did my school work experience get me my first job?"
 date=2023-06-19
 authors = ["Mark Rainey"]
 [taxonomies]
