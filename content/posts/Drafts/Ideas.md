@@ -1,4 +1,3 @@
-https://www.makeuseof.com/map-view-google-photos-see-images-on-map/
 
 https://hbr.org/2023/04/how-to-communicate-a-tough-decision-to-your-team
 

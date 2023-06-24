@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Photos on a map</title>
+          <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/photosinmapview/</link>
+          <guid>https://ilearnt.com/posts/photosinmapview/</guid>
+          <description>&lt;p&gt;It is possible to see a (heat)map of all the photos you have taken in Google Photos.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Viable is important</title>
           <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
