@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Mind - not time - management</title>
+          <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/mindmanagement/</link>
+          <guid>https://ilearnt.com/posts/mindmanagement/</guid>
+          <description>&lt;p&gt;Being productive is sometimes more about mind management than time management.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Photos on a map</title>
           <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
