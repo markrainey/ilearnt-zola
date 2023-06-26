@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Ignoring the bad</title>
+          <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/ignoringthebad/</link>
+          <guid>https://ilearnt.com/posts/ignoringthebad/</guid>
+          <description>&lt;p&gt;Nearly every technology can be used for good and bad. Quite a bold statement but something I believe is true.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Mind - not time - management</title>
           <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
