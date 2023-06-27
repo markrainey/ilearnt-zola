@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Pressure and stress</title>
+          <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/pressureandstress/</link>
+          <guid>https://ilearnt.com/posts/pressureandstress/</guid>
+          <description>&lt;p&gt;We often equate pressure with stress and vice versa.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Ignoring the bad</title>
           <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
