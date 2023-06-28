@@ -136,6 +136,9 @@
         <loc>https://ilearnt.com/categories/life/page/20/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/life/page/21/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/life/page/3/</loc>
     </url>
     <url>
@@ -1186,6 +1189,10 @@
     <url>
         <loc>https://ilearnt.com/posts/thereisnonow/</loc>
         <lastmod>2018-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/therightquestion/</loc>
+        <lastmod>2023-06-28</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/theseagulldatacentrealgorithm/</loc>
