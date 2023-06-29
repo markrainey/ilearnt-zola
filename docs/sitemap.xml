@@ -166,6 +166,9 @@
         <loc>https://ilearnt.com/categories/misc/page/1/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/misc/page/2/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/obsidian/</loc>
     </url>
     <url>
@@ -862,6 +865,10 @@
     <url>
         <loc>https://ilearnt.com/posts/octopusdreaming/</loc>
         <lastmod>2020-03-19</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/onlinesafetybull/</loc>
+        <lastmod>2023-06-29</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/organisedchaos/</loc>

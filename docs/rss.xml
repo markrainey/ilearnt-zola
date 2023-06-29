@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The Online Safety &quot;Bull&quot;</title>
+          <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/onlinesafetybull/</link>
+          <guid>https://ilearnt.com/posts/onlinesafetybull/</guid>
+          <description>&lt;p&gt;Imagine you wanted to send a message to a friend. The message has sensitive information so you want to send it securely. &lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The right question</title>
           <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
