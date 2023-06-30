@@ -8,7 +8,7 @@
   <meta content="#da532c" name="msapplication-TileColor" />
 
 
-    <meta name="description" content="How the UK government does not understand security and cryptography and the impact of proposed changes" />
+    <meta name="description" content="A very simple high level introduction to public and private keys and how they are used" />
 
 
   
@@ -34,7 +34,7 @@
 
   <title>
     
-I Learnt | The Online Safety &quot;Bull&quot;
+I Learnt | Public&#x2F;Private keys introduction
 
   </title>
 
@@ -121,15 +121,15 @@ I Learnt | The Online Safety &quot;Bull&quot;
 		</div>
         <article class="box">			
           <h1 class="title has-text-info-dark">
-            The Online Safety &quot;Bull&quot;
+            Public&#x2F;Private keys introduction
           </h1>
-          <p class="subtitle">How the UK government does not understand security and cryptography and the impact of proposed changes</p>
+          <p class="subtitle">A very simple high level introduction to public and private keys and how they are used</p>
           <div class="columns is-multiline is-gapless">
             <div class="column is-8">
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2023-06-29">June 29, 2023</time></span>
+  <span><time datetime="2023-06-30">June 30, 2023</time></span>
 </span>
 
             </div>
@@ -139,11 +139,11 @@ I Learnt | The Online Safety &quot;Bull&quot;
   <span class="icon">
     <i class="far fa-clock"></i>
   </span>
-  <span>4 min,</span>
+  <span>2 min,</span>
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>635 words</span>
+  <span>329 words</span>
 </span>
 
             </div>
@@ -171,18 +171,18 @@ I Learnt | The Online Safety &quot;Bull&quot;
             </div>
           </div>
           <div class="content mt-2">
-            <p>Imagine you wanted to send a message to a friend. The message has sensitive information so you want to send it securely. </p>
+            <p>I recently had to try and explain to some non-technical colleagues how part of our system works. This involved giving them a very quick overview of public/private key cryptography. So I thought I would summarise it here.</p>
 <span id="continue-reading"></span>
-<p>They have given you a box which you can put your message in and a key to lock it. They own the only key that will unlock it - not even the key you used to lock it will open it. You have also given them the same sort of set up to send messages back to you. You happily send these messages and chat about what is happening in the world.</p>
-<p>Unfortunately the rulers of your kingdom think that you might be sending illegal messages, or at least saying horrible things about them, so they want to see everything you are sending. From the perspective of keeping the kingdom safe this sounds reasonable. However they can't open the box so they decide that the only way that may work is to look at the message before it is sent.</p>
-<p>They decide that they will send over a robot they call a &quot;scanner&quot; to read your message before it is put in the box. One company tried this approach before but wrote it off as not possible for ethical and technical reasons. The rulers tell you it is okay as they know how to do it and not to worry as the scanner will be developed by a trusted company and won't share anything it reads with anyone else, well not much anyway - it will give a thumbs up or thumbs down to the message.</p>
-<p>The scanner has to read the message, interpret what it sees and then decide. However its interpretation is not perfect and sometimes it will block perfectly legitimate messages. If a message is blocked it will notify the rulers that you are trying to send something and may end up with you not being able to send any more messages - it could even involve them reading the messages and deciding to take more serious actions. So your harmless message about the next door neighbours cat could end up with you being blocked if the alternative word you used for cat is misinterpreted.</p>
-<p>Obviously the bad guys will try and read your messages so they will try and come up with schemes to do this. Maybe they could send you fake scanner; it looks like the real one but sends them all the messages instead. Maybe the fake scanner could threaten to send all your messages out unprotected unless you pay a ransom. Maybe someone could be peering through the window and looking at the message while the scanner reads it. </p>
-<p>All the makers of the secure boxes decide that they don't want to be involved with this so they choose to no longer allow their boxes to be used in your kingdom. No-one is able to send any messages any more but the rulers are happy as there are no illegal messages being sent. </p>
-<p>This may sound like fiction but this is effectively what the UK government is proposing with their Online Safety Bill. They want messaging companies to either remove encryption so messages are sent in a form that others could intercept and read or introduce a magical technology that will securely scan messages before they are sent. <strong>No-one</strong> has yet developed an approach to this that works and still keeps the messages secure. Experts in security and cryptography have raised concerns about this along with the technology companies involved. Regardless of this they are still ploughing ahead and vaguely waving their arms around claiming it will work with no evidence to back this up.</p>
-<p>Watch this space ...</p>
-<p><strong>Links</strong></p>
-<p><a href="https://www.openrightsgroup.org/press-releases/online-safety-bill-suella-braverman-fails-to-understand-encryption-risk">Online Safety Bill: Suella Braverman fails to understand encryption risk | Open Rights Group</a></p>
+<p>Imagine a padlock that has two keyholes - one accepts a key called &quot;Private&quot; and the other accepts a key called &quot;Public&quot;. If a user, Alice, locks the padlock with the private key then it can only be unlocked with the public key. Similarly, if Alice locks it with the public key it can only be unlocked with the private key.</p>
+<p>Alice must keep her private key private - she must be the only one who has access to it. However she can give her public key to anyone.</p>
+<p><img src="/posts/PublicPrivateKeys.png" title="Keys" class="mid-image"></img><p></p>
+So how is this useful?</p>
+<h1 id="encryption">Encryption</h1>
+<p>Someone can take some data and use Alice's public key to <strong>encrypt</strong> (lock) it. This means that the only person who can <strong>decrypt</strong> (unlock) it is Alice as the only key that can unlock it is Alice's private key. So this means that someone can send Alice some data, or a message, that only she can read as she is the only one who can unlock it.</p>
+<p><img src="/posts/Encryption.png" title="Encryption" class="mid-image"></img></p>
+<h1 id="signing">Signing</h1>
+<p>If we reverse the process then we can get another useful feature. If Alice takes her private key and <strong>signs</strong> (locks) the data she can send it to anyone. If the private key is used then the only key that can be used to unlock it is the public key. Anyone with Alice's public key can then <strong>verify</strong> (unlock) that the data was signed with Alice's private key. As Alice is the only person with access to the private key it means we know that Alice must have been the one to have sent the data.</p>
+<p><img src="/posts/Signing.png" title="Signing" class="mid-image"></img></p>
 
           </div>
         </article>
@@ -225,22 +225,14 @@ I Learnt | The Online Safety &quot;Bull&quot;
         <nav class="level">
           
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;therightquestion&#x2F;">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;onlinesafetybull&#x2F;">
               <span class="icon mr-2">
                 <i class="fas fa-arrow-circle-left"></i>
               </span>
-              The right question
+              The Online Safety &quot;Bull&quot;
             </a>
           </div>
-           
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;publicprivatekeysintro&#x2F;">
-              Public&#x2F;Private keys introduction<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
-            </a>
-          </div>
-            
+             
         </nav>
       </div>
     </div>

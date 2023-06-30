@@ -944,6 +944,9 @@
         <loc>https://ilearnt.com/posts/page/3/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/posts/page/30/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/posts/page/4/</loc>
     </url>
     <url>
@@ -1028,6 +1031,10 @@
     <url>
         <loc>https://ilearnt.com/posts/prototypes/</loc>
         <lastmod>2023-05-10</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/publicprivatekeysintro/</loc>
+        <lastmod>2023-06-30</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/questionfocus/</loc>

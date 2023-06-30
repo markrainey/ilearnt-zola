@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Public&#x2F;Private keys introduction</title>
+          <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/publicprivatekeysintro/</link>
+          <guid>https://ilearnt.com/posts/publicprivatekeysintro/</guid>
+          <description>&lt;p&gt;I recently had to try and explain to some non-technical colleagues how part of our system works. This involved giving them a very quick overview of public&#x2F;private key cryptography. So I thought I would summarise it here.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The Online Safety &quot;Bull&quot;</title>
           <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
