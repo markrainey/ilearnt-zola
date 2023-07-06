@@ -1,6 +1,6 @@
 +++
 title="Rites of passage"
-description=""
+description="The rites of passage of children and their parents"
 date=2023-07-06
 authors = ["Mark Rainey"]
 [taxonomies]
