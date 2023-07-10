@@ -208,6 +208,9 @@
         <loc>https://ilearnt.com/categories/technology/page/10/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/technology/page/11/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/technology/page/2/</loc>
     </url>
     <url>
@@ -1055,6 +1058,10 @@
     <url>
         <loc>https://ilearnt.com/posts/reducingteamsize/</loc>
         <lastmod>2018-02-26</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/relyonrss/</loc>
+        <lastmod>2023-07-10</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/remotecommuting/</loc>
