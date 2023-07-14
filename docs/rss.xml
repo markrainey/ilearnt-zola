@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Avoiding regrets</title>
+          <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/regrets/</link>
+          <guid>https://ilearnt.com/posts/regrets/</guid>
+          <description>&lt;p&gt;When my daughter was at nursery I missed a show she was in. Unknown to me, she had the leading role and I missed it because of a work meeting.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>I rely on RSS</title>
           <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>

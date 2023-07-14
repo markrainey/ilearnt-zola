@@ -16,8 +16,5 @@ What experiments can I run where I am not worried about it being a long term com
 Collaboration article
 
 
-Wheat fields course
-Cryptography explanation
+Wheatfields course
 Favourite books
-
-Rite of Passage
