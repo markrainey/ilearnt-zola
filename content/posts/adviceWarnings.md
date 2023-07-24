@@ -28,7 +28,7 @@ If you imagine a map grid where the height of every point reflects how good the 
 
 The way they solve this with genetic algorithms is through mutations - in our example this would be deciding to head off in a new direction even though it might not be the highest point.
 
-Coming back to the advice and warnings, if everyone always takes a piece of advice and heads the implicit warning then we could potentially get stuck at a local maxima - we wouldn't know if there is a better way to do things. If we always ignore the advice then we might find a better way or we may find a much worse way. 
+Coming back to the advice and warnings, if everyone always takes a piece of advice and heeds the implicit warning then we could potentially get stuck at a local maxima - we wouldn't know if there is a better way to do things. If we always ignore the advice then we might find a better way or we may find a much worse way. 
 
 *Sometimes* we may want to ignore advice and just try things. We need to take into account the risks and the impact of being wrong. The advice to not touch a hot stove should probably be followed however the advice on the best way to learn to juggle can probably be safely ignored (although it may take you longer).
 
