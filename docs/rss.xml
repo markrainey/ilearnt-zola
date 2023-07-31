@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Always agreeing</title>
+          <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/alwaysagreeing/</link>
+          <guid>https://ilearnt.com/posts/alwaysagreeing/</guid>
+          <description>&lt;p&gt;When interviewing a potential candidate recently I asked them the difference, in their opinion, between the way a consultant&#x2F;contractor engages with a company and a full time employee.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Advice, warnings and genetic algorithms</title>
           <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
