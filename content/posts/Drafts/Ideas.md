@@ -18,3 +18,6 @@ Collaboration article
 
 Wheatfields course
 Favourite books
+
+Unstable groups - cause learning and growth
+Checking bricks - attitude
