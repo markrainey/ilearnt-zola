@@ -21,3 +21,8 @@ Favourite books
 
 Unstable groups - cause learning and growth
 Checking bricks - attitude
+Toughest conversation at work
+
+Metaverse and AI - https://stratechery.com/2023/nvidia-on-the-mountaintop/
+IP - https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property
+
