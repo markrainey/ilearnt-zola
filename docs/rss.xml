@@ -7,7 +7,19 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>What is different?</title>
+          <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/culturefeedback/</link>
+          <guid>https://ilearnt.com/posts/culturefeedback/</guid>
+          <description>&lt;p&gt;Every Monday morning as part of our stand up meeting we ask a &amp;quot;question of the day&amp;quot;. A designated &lt;del&gt;victim&lt;&#x2F;del&gt; person chooses a question that each team member gets to answer. This week the question that was asked was:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What do you like about our company that is different from other places you have worked?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
       <item>
           <title>Letting go is hard</title>
           <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
