@@ -19,7 +19,8 @@ The answers were varied but they all highlighted different aspects of the cultur
 - **Culture** - the culture here is very different and I enjoy working here
 - **Team** - I have not worked with a team like this before, in a good way
 - **Trust** - we trust each other. We know things will be done right
-- **Challenges** - I love the challenges as I can learn and improve **Loose hierarchy** - the hierarchy is not rigid and there is a "soft respect"
+- **Challenges** - I love the challenges as I can learn and improve 
+- **Loose hierarchy** - the hierarchy is not rigid and there is a "soft respect"
 - **Voice gets heard** - what we say is heard at all levels 
 - **Legacy** - the way we work has been passed on by others and we build on that
 - **Kindness** - people are kind and looking out for each other 
