@@ -55,6 +55,12 @@
         <loc>https://ilearnt.com/categories/book/page/6/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/books/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/books/page/1/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/business/</loc>
     </url>
     <url>
@@ -1236,6 +1242,10 @@
     <url>
         <loc>https://ilearnt.com/posts/thefirstpicturesfromspace/</loc>
         <lastmod>2023-04-11</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/thejoyofreading/</loc>
+        <lastmod>2023-11-24</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/thekubernetesbook/</loc>
