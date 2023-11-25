@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Favourite books</title>
+          <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/favouritebooks/</link>
+          <guid>https://ilearnt.com/posts/favouritebooks/</guid>
+          <description>&lt;p&gt;The top shelf of books in my study has the books that have had the most impact on me or that I have enjoyed reading the most.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The joy and dilemma of reading</title>
           <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>

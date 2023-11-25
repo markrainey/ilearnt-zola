@@ -55,12 +55,6 @@
         <loc>https://ilearnt.com/categories/book/page/6/</loc>
     </url>
     <url>
-        <loc>https://ilearnt.com/categories/books/</loc>
-    </url>
-    <url>
-        <loc>https://ilearnt.com/categories/books/page/1/</loc>
-    </url>
-    <url>
         <loc>https://ilearnt.com/categories/business/</loc>
     </url>
     <url>
@@ -561,6 +555,10 @@
     <url>
         <loc>https://ilearnt.com/posts/fatherlywisdom/</loc>
         <lastmod>2023-04-12</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/favouritebooks/</loc>
+        <lastmod>2023-11-25</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/fearofjudgement/</loc>

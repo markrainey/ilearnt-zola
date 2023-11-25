@@ -4,7 +4,7 @@ description="The enjoyment of reading and the dilemma of what to read next"
 date=2023-11-24
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["books"]
+categories=["book"]
 tags=[]
 +++
 
