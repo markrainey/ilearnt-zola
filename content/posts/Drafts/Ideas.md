@@ -15,9 +15,7 @@ What experiments can I run where I am not worried about it being a long term com
 
 Collaboration article
 
-
 Wheatfields course
-Favourite books
 
 Unstable groups - cause learning and growth
 Checking bricks - attitude

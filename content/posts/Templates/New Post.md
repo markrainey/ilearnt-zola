@@ -13,5 +13,3 @@ tags=[]
 
 __Links__
 
-
-*As an Amazon Associate I earn from qualifying purchases.*
