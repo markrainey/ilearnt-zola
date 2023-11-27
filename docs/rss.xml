@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Foundations lead to structure</title>
+          <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/foundationsleadtostructure/</link>
+          <guid>https://ilearnt.com/posts/foundationsleadtostructure/</guid>
+          <description>&lt;p&gt;Foundations are important and need to be correct and strong before you build anything.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Abstract art</title>
           <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
