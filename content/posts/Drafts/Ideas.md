@@ -29,3 +29,7 @@ AI and product costs - https://ia.net/topics/no-feature
 
 Post mortem - https://vadimkravcenko.com/shorts/dealing-with-failures-and-postmortems/
 
+Failures and blame - https://www.chrislewicki.com/articles/failurestory
+Documentation for the house - https://luke.hsiao.dev/blog/housing-documentation/
+
+

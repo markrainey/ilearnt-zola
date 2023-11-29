@@ -4,7 +4,7 @@ description=""
 date=2023-09-03
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["#holiday","#review"]
+categories=["holiday","review"]
 tags=[]
 +++
 

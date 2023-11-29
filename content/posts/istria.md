@@ -4,7 +4,7 @@ description="Notes from our holiday in Istria - reviews, hints and tips"
 date=2023-08-18
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["#holiday","#review"]
+categories=["holiday","review"]
 tags=[]
 +++
 
