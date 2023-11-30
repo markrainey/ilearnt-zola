@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Oh no second</title>
+          <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/ohnosecond/</link>
+          <guid>https://ilearnt.com/posts/ohnosecond/</guid>
+          <description>&lt;p&gt;An oh no second is that moment in time when you realise that you have done something potentially catastrophic and your stomach turns to mush with the dread and realisation.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The unknown future of software developers</title>
           <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
