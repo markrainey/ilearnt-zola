@@ -26,4 +26,7 @@ IP - https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellec
 
 
 
+FStoppers woodland photography
 
+https://blog.marcocantu.com/blog/2023-november-turbopascal40.html
+	Stony Brook Pascal
