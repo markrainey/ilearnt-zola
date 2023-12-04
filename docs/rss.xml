@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Turbo Pascal is 40</title>
+          <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/turbopascal/</link>
+          <guid>https://ilearnt.com/posts/turbopascal/</guid>
+          <description>&lt;p&gt;Turbo Pascal is &lt;a href=&quot;https:&#x2F;&#x2F;blog.marcocantu.com&#x2F;blog&#x2F;2023-november-turbopascal40.html&quot;&gt;40 years old&lt;&#x2F;a&gt; and it had a big impact on the direction of my career.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Assumptions can be dangerous</title>
           <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
