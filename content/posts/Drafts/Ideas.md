@@ -25,11 +25,5 @@ Metaverse and AI - https://stratechery.com/2023/nvidia-on-the-mountaintop/
 IP - https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property
 
 
-
-FStoppers woodland photography
-https://www.youtube.com/watch?v=dzuf-YqA5lU
-
-
-
 NOLOG
 ALS

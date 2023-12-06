@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Decisions with a cost</title>
+          <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/decisionswithacost/</link>
+          <guid>https://ilearnt.com/posts/decisionswithacost/</guid>
+          <description>&lt;p&gt;Sometimes a decision comes with a cost, a sacrifice.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Simple tips can make a difference</title>
           <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
