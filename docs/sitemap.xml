@@ -148,6 +148,9 @@
         <loc>https://ilearnt.com/categories/life/page/22/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/life/page/23/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/life/page/3/</loc>
     </url>
     <url>
@@ -410,6 +413,10 @@
     <url>
         <loc>https://ilearnt.com/posts/bottlenecks/</loc>
         <lastmod>2019-03-29</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/breakingthingsdown/</loc>
+        <lastmod>2023-12-07</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/buildingacollectionofhabits/</loc>
