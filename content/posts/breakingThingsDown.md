@@ -20,7 +20,7 @@ The benefit of breaking things down into smaller parts can be seen in lots of di
 
 Software development is all about breaking things down into chunks, whether they are classes, methods, functions, modules, layers; lots of different bits with different levels of abstraction. If the chunks are broken down and identified properly this can allow work on multiple parts at the same time by different people or even different teams. It can allow the development of something that originally seemed impossible.
 
-<img src="/posts/BreakDown.png" title="Breaking things down" class="mid-image"></img><p></p>
+<img src="/posts/Breakdown.png" title="Breaking things down" class="mid-image"></img><p></p>
 
 The project I have been on for about six years started as an idea. We came up with a theoretical way of making it work and then we prototyped it. That worked and so we put together a team to develop it. They started with the core functionality and we agreed to put off certain functionality and problems for a later date. We were sure we could solve them and we considered them when working on the current functionality but we didn't get blocked by them.
 
