@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Capturing decisions and those involved</title>
+          <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/decisionmaking/</link>
+          <guid>https://ilearnt.com/posts/decisionmaking/</guid>
+          <description>&lt;p&gt;My role has changed recently to include another team. This has also included more interaction with other areas of the business and also the management team.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Breaking things down</title>
           <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
