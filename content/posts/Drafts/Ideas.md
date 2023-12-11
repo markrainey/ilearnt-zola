@@ -27,3 +27,11 @@ IP - https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellec
 
 NOLOG
 ALS
+
+Lm studio
+
+
+## Consider
+How I learnt...
+Write for family
+What is tweetable?
