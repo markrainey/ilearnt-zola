@@ -8,7 +8,7 @@
   <meta content="#da532c" name="msapplication-TileColor" />
 
 
-    <meta name="description" content="Sometimes it is difficult not to compromise and stick to what you need to." />
+    <meta name="description" content="It is relatively easy to run your own personal instance of an AI similar to ChatGPT" />
 
 
   
@@ -34,7 +34,7 @@
 
   <title>
     
-I Learnt | How I learnt about not compromising
+I Learnt | How I learnt to run my own personal AI
 
   </title>
 
@@ -121,15 +121,15 @@ I Learnt | How I learnt about not compromising
 		</div>
         <article class="box">			
           <h1 class="title has-text-info-dark">
-            How I learnt about not compromising
+            How I learnt to run my own personal AI
           </h1>
-          <p class="subtitle">Sometimes it is difficult not to compromise and stick to what you need to.</p>
+          <p class="subtitle">It is relatively easy to run your own personal instance of an AI similar to ChatGPT</p>
           <div class="columns is-multiline is-gapless">
             <div class="column is-8">
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2023-12-12">December 12, 2023</time></span>
+  <span><time datetime="2023-12-14">December 14, 2023</time></span>
 </span>
 
             </div>
@@ -143,7 +143,7 @@ I Learnt | How I learnt about not compromising
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>427 words</span>
+  <span>408 words</span>
 </span>
 
             </div>
@@ -153,21 +153,21 @@ I Learnt | How I learnt about not compromising
 <p>
   Categories:
   
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/life/">
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/ai/">
     <span class="icon-text has-text-grey">
       <span class="icon">
         <i class="fas fa-cube"></i>
       </span>
-      <span>life</span>
+      <span>ai</span>
     </span>
   </a>
   
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/book/">
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/howto/">
     <span class="icon-text has-text-grey">
       <span class="icon">
         <i class="fas fa-cube"></i>
       </span>
-      <span>book</span>
+      <span>howto</span>
     </span>
   </a>
   
@@ -180,21 +180,26 @@ I Learnt | How I learnt about not compromising
             </div>
           </div>
           <div class="content mt-2">
-            <p>I have just finished re-reading the book <a href="https://ilearnt.com/posts/thebalance/%5BTitle%5D(https://www.amazon.co.uk/dp/0385516517)">The Spark</a>, a fictional account of a sports agent and his journey to learn about Cirque de Soleil from the inside.</p>
+            <p>By now most people have tried or at least heard of ChatGPT. It is now relatively easy to run your own AI instance on your own machine.</p>
 <span id="continue-reading"></span>
-<p>As part of that journey, he gets to try out a number of the different performance skills but also meet lots of people from behind the scenes. At one point, he meets one of the riggers who works on and designs the intricate equipment that is required for the performance of each show. He makes an observation about it being a balance between safety and the artistic appearance of the equipment. He is quickly corrected:</p>
-<blockquote>
-<p>&quot;You mean a balance between safety and the artistic? No! That is the most common misconception of what we do. There can be NO compromise on safety and NO compromise on appearance. We must be 100 per cent safe, all the time, AND 100 per cent aesthetic. And that is what makes it so challenging. That's what forces us to be creative no compromise!&quot;</p>
-</blockquote>
-<p>They take a long time to ensure that not only is everyone totally safe but what they design becomes part of the show and doesn't stick out. In some ways it is still a balance but the balance is at the extreme with no compromises.</p>
-<p>When we are developing software there tends to be a balance between speed of development and quality, especially depending on how and where the software is used. If it is used in a life critical scenario then it tends to favour quality/correctness (hopefully!) over speed.</p>
-<p><img src="/posts/TheBalance.png" title="The Balance" class="mid-image"></img></p>
-<p>It can often be easy to quickly deliver something, a new feature for example, however it takes time to ensure it is correct, both in terms of development and testing. There is often a pull from the business to deliver something quickly and a pull from development, or QA, to ensure it is right.</p>
-<p>In most cases it is worth spending a bit more time to ensure that it is right. </p>
-<p>The amount that the balance tilts in one direction tends to be governed by how much people are willing to compromise on quality. If the quality has to be as close to 100 percent as possible then it will tend to take longer.</p>
-<p>When time is one of the axes it is very difficult, if not impossible, to have a perfect balance where at least one of speed and quality are not compromised.</p>
+<p>One free tool that makes this simpler is LM Studio. It is a desktop application that you can run locally on your machine. You download and then select whichever LLM (large language model) you want to use to run it. Don't worry, LLM basically means the brains and knowledge you want to use to ask questions.</p>
+<p>To install it, go to the LM Studio <a href="https://ilearnt.com/posts/personalai/lmstudio.ai">website</a> and download the version for the operating system you use (MacOS, Windows or Linux) and install it.</p>
+<p>Once it is installed, run the application.</p>
+<p><img src="/posts/LmStudio1.png" title="Lm Studio1" class="mid-image"></img></p>
+<p>The first thing you will need to do is download the LLM. There is a daunting array of models and it is not easy to decide which. I did a little research and I have downloaded two models to play with:</p>
+<p>zephyr beta (q4_k_s)
+orca 2 (q5_k_m)</p>
+<p>You can search for a specific model or scroll through the list. To download one, select the instance you want and click the &quot;Download&quot; button next to it. It might take a while to download as they tend to be between 4-8Gb.</p>
+<p>Once loaded you will want to try it out. Click on the chat icon (3rd one down) on the left hand side. At the top there is a dropdown to select the model to use - this will load it into memory. </p>
+<p><img src="/posts/LmStudio2.png" title="Lm Studio2" class="mid-image"></img></p>
+<p>Once it is loaded you can start a new chat. A text box will appear where you can type your prompt and answers will appear below it.</p>
+<p><img src="/posts/LmStudio3.png" title="Lm Studio3" class="mid-image"></img></p>
+<p>You are now free to play.</p>
+<p>You can also run it as a local web server so you can query it using CURL or from an API.</p>
+<p><img src="/posts/LmStudio4.png" title="Lm Studio4" class="mid-image"></img></p>
+<p>Note, sometimes it will occasionally  stop generating responses. Usually this can be solved by reloading the model from the dropdown or worst case restarting the application. Your previously downloaded models will still be available and don't need to be downloaded again - you just need to select the model before chatting as before.</p>
 <p><strong>Links</strong></p>
-<p><a href="https://www.amazon.co.uk/dp/0385516517">The Spark</a></p>
+<p><a href="https://lmstudio.ai/">LM Studio</a></p>
 
           </div>
         </article>
@@ -237,22 +242,14 @@ I Learnt | How I learnt about not compromising
         <nav class="level">
           
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;ideasthatwin&#x2F;">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;thebalance&#x2F;">
               <span class="icon mr-2">
                 <i class="fas fa-arrow-circle-left"></i>
               </span>
-              How I learnt to pick ideas that win
+              How I learnt about not compromising
             </a>
           </div>
-           
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;personalai&#x2F;">
-              How I learnt to run my own personal AI<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
-            </a>
-          </div>
-            
+             
         </nav>
       </div>
     </div>

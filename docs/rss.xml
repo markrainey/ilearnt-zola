@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>How I learnt to run my own personal AI</title>
+          <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/personalai/</link>
+          <guid>https://ilearnt.com/posts/personalai/</guid>
+          <description>&lt;p&gt;By now most people have tried or at least heard of ChatGPT. It is now relatively easy to run your own AI instance on your own machine.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>How I learnt about not compromising</title>
           <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>

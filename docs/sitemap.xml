@@ -16,6 +16,9 @@
         <loc>https://ilearnt.com/categories/ai/page/1/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/ai/page/2/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/bible/</loc>
     </url>
     <url>
@@ -101,6 +104,9 @@
     </url>
     <url>
         <loc>https://ilearnt.com/categories/howto/page/2/</loc>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/categories/howto/page/3/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/categories/life/</loc>
@@ -1083,6 +1089,10 @@
     <url>
         <loc>https://ilearnt.com/posts/perplexityai/</loc>
         <lastmod>2023-04-24</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/personalai/</loc>
+        <lastmod>2023-12-14</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/photosinmapview/</loc>

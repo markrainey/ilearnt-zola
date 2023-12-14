@@ -30,7 +30,10 @@ ALS
 
 Lm studio
 
-
+Famous sports people I have seen play
+Microwriting
+Trevor the horse
+Tribe of Mentors questions
 ## Consider
 How I learnt...
 Write for family
