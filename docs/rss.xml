@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Useless Things You Remember</title>
+          <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/uselessthingsyouremember/</link>
+          <guid>https://ilearnt.com/posts/uselessthingsyouremember/</guid>
+          <description>&lt;p&gt;During a team call this morning, one of the engineers mentioned about the useless things he still remembers and how it would be good if the brain would clear them out.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>How I learnt to run my own personal AI</title>
           <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>

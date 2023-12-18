@@ -28,12 +28,12 @@ IP - https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellec
 NOLOG
 ALS
 
-Lm studio
-
 Famous sports people I have seen play
 Microwriting
 Trevor the horse
 Tribe of Mentors questions
+https://www.youtube.com/watch?v=x7p329Z8MD0&t=5s
+
 ## Consider
 How I learnt...
 Write for family
