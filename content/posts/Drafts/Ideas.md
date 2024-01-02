@@ -33,8 +33,19 @@ Microwriting
 Trevor the horse
 Tribe of Mentors questions
 https://www.youtube.com/watch?v=x7p329Z8MD0&t=5s
+Speeding up Windows machines
+
+“What is something Funny, Interesting, Silly, or Surprising that you’ve seen, or has happened to you, since we last spoke?” - https://kk.org/cooltools/whats-in-my-now-jennifer-s/
+
+https://thenextweb.com/news/mikko-hypponen-5-biggest-ai-cybersecurity-threats-2024
+https://www.youtube.com/watch?v=EyTeDaiUL6s
+https://event-driven.io/en/a_few_words_about_workaholism/
+https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights
+Wired UK
 
 ## Consider
 How I learnt...
 Write for family
 What is tweetable?
+
+
