@@ -33,7 +33,6 @@ Microwriting
 Trevor the horse
 Tribe of Mentors questions
 https://www.youtube.com/watch?v=x7p329Z8MD0&t=5s
-Speeding up Windows machines
 
 “What is something Funny, Interesting, Silly, or Surprising that you’ve seen, or has happened to you, since we last spoke?” - https://kk.org/cooltools/whats-in-my-now-jennifer-s/
 

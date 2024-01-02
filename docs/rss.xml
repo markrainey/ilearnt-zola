@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Speeding up Windows PC</title>
+          <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/speedingupawindowspc/</link>
+          <guid>https://ilearnt.com/posts/speedingupawindowspc/</guid>
+          <description>&lt;p&gt;My dad is pretty tech-savvy (he was an electronic engineer) however he was having problems with how long it took his Windows PC to become usable.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Piling and Organisation</title>
           <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
