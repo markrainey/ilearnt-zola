@@ -31,5 +31,7 @@ It doesn't always have to be negative. Maybe we can make the world a better plac
 __Links__
 
 [Straw that broke the camel's back - Wikipedia](https://en.wikipedia.org/wiki/Straw_that_broke_the_camel%27s_back)
+
 [x1000](https://seths.blog/2023/12/x1000)
+
 [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking)
