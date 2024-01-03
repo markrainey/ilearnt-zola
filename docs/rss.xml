@@ -7,7 +7,19 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The straw that broke the camel&#x27;s back</title>
+          <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/thestraw/</link>
+          <guid>https://ilearnt.com/posts/thestraw/</guid>
+          <description>&lt;p&gt;There is an idiom &amp;quot;the straw that broke the camel&#x27;s back&amp;quot; which, according to Wikipedia, describes &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;a minor or routine action that causes an unpredictably large and sudden reaction due of the cumulative effect of other small actions.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
       <item>
           <title>Speeding up Windows PC</title>
           <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>

@@ -8,7 +8,7 @@
   <meta content="#da532c" name="msapplication-TileColor" />
 
 
-    <meta name="description" content="Some things you can do to make your Windows PC boot more quickly and potentially run faster" />
+    <meta name="description" content="It can take one additional small thing to push something over the edge." />
 
 
   
@@ -34,7 +34,7 @@
 
   <title>
     
-I Learnt | Speeding up Windows PC
+I Learnt | The straw that broke the camel&#x27;s back
 
   </title>
 
@@ -121,15 +121,15 @@ I Learnt | Speeding up Windows PC
 		</div>
         <article class="box">			
           <h1 class="title has-text-info-dark">
-            Speeding up Windows PC
+            The straw that broke the camel&#x27;s back
           </h1>
-          <p class="subtitle">Some things you can do to make your Windows PC boot more quickly and potentially run faster</p>
+          <p class="subtitle">It can take one additional small thing to push something over the edge.</p>
           <div class="columns is-multiline is-gapless">
             <div class="column is-8">
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2024-01-02">January 02, 2024</time></span>
+  <span><time datetime="2024-01-03">January 03, 2024</time></span>
 </span>
 
             </div>
@@ -143,7 +143,7 @@ I Learnt | Speeding up Windows PC
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>312 words</span>
+  <span>399 words</span>
 </span>
 
             </div>
@@ -153,21 +153,12 @@ I Learnt | Speeding up Windows PC
 <p>
   Categories:
   
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/howto/">
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/life/">
     <span class="icon-text has-text-grey">
       <span class="icon">
         <i class="fas fa-cube"></i>
       </span>
-      <span>howto</span>
-    </span>
-  </a>
-  
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/technology/">
-    <span class="icon-text has-text-grey">
-      <span class="icon">
-        <i class="fas fa-cube"></i>
-      </span>
-      <span>technology</span>
+      <span>life</span>
     </span>
   </a>
   
@@ -180,18 +171,24 @@ I Learnt | Speeding up Windows PC
             </div>
           </div>
           <div class="content mt-2">
-            <p>My dad is pretty tech-savvy (he was an electronic engineer) however he was having problems with how long it took his Windows PC to become usable.</p>
+            <p>There is an idiom &quot;the straw that broke the camel's back&quot; which, according to Wikipedia, describes </p>
+<blockquote>
+<p>a minor or routine action that causes an unpredictably large and sudden reaction due of the cumulative effect of other small actions.</p>
+</blockquote>
 <span id="continue-reading"></span>
-<p>As he has helped me with loads of tasks (mostly DIY) over the years I thought  that the least I could do was try and help him out.</p>
-<p><strong>I have not included detailed instructions on how to do each step as you probably need some knowledge before enabling and disabling applications and services but this post should give some ideas what to look at.</strong></p>
-<p>The first thing we did was to reboot the machine and, as soon as he had logged in, press CTRL+Shift+Escape to bring up Task Manager. This is much quicker that trying to right click on the task bar and open it that way. We sorted it by CPU usage to see the most expensive applications.</p>
-<p>Within task manager we looked at the &quot;startup apps&quot; tab to see what was enabled and executing. Some of the applications we saw in there were not needed so we disabled them.</p>
-<p>We looked in the registry at:</p>
-<p><em>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</em>
-<em>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run</em></p>
-<p>We removed some applications from here that were not needed as well. We also looked at the scheduled tasks and were able to remove some more from there.</p>
-<p>The next step was to look at the Services being run. We disabled the indexing service as well as a service that was used to prioritise network streaming traffic as he had no need for that.</p>
-<p>The last step was something I'd come across when running a Dell machine. The Support Assist software is dreadful and can cause slow performance and even random hanging. So we disabled this and he can run it when he needs - instructions for this can be found <a href="https://ilearnt.com/posts/dellfreezing/">here</a>.</p>
+<p><img src="/posts/TheStraw.png" title="The Straw" class="mid-image"></img></p>
+<p>Seth Godin recently wrote an <a href="https://seths.blog/2023/12/x1000">article</a> about &quot;x1000&quot; where he gives examples of things which when they happen a few times are manageable but when they happen one thousand times causes pain. He writes about the volume of spam phone calls and also a more extreme one in the form of climate change:</p>
+<blockquote>
+<p>One freakish storm is something many economies and communities have a chance to recover from. But 1,000 days of weird weather is more than we can handle.</p>
+</blockquote>
+<p>Another <a href="https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking">article</a> writes about the concept of &quot;silent sacking&quot;. They propose that a company can change the conditions of work of someone to make them so unattractive that it effectively forces them to quit. They may be able to cope with a few changes but the accumulation of changes creates an environment they can no longer tolerate. (FYI I have no idea if that is happening at Amazon as they claim - I am just covering the concept).</p>
+<p>We have seen recently on our project where a number of small changes had a cumulative effect on the performance. It was not one thing but a series of unrelated changes, each impacting the performance a little that added up to a noticeable change. It took one of our engineers a week to work through them all and refactor them to restore performance.</p>
+<p>We can see it in children. They learn how to nudge their parents into submission by repeating actions or requests until the parent can take no more and either snaps or gives in. The single action or request has little effect but the repetition has an impact.</p>
+<p>It doesn't always have to be negative. Maybe we can make the world a better place by doing small actions that have a cumulative effect. Maybe it would then become the &quot;straw that fixed the camel's back&quot;?</p>
+<p><strong>Links</strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Straw_that_broke_the_camel%27s_back">Straw that broke the camel's back - Wikipedia</a>
+<a href="https://seths.blog/2023/12/x1000">x1000</a>
+<a href="https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking">Amazon's Silent Sacking</a></p>
 
           </div>
         </article>
@@ -234,22 +231,14 @@ I Learnt | Speeding up Windows PC
         <nav class="level">
           
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;pilingandorganisation&#x2F;">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;speedingupawindowspc&#x2F;">
               <span class="icon mr-2">
                 <i class="fas fa-arrow-circle-left"></i>
               </span>
-              Piling and Organisation
+              Speeding up Windows PC
             </a>
           </div>
-           
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;thestraw&#x2F;">
-              The straw that broke the camel&#x27;s back<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
-            </a>
-          </div>
-            
+             
         </nav>
       </div>
     </div>
