@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Pushing The Limits</title>
+          <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/pushingthelimits/</link>
+          <guid>https://ilearnt.com/posts/pushingthelimits/</guid>
+          <description>&lt;p&gt;A lot of coding jobs can involve fairly &amp;quot;normal&amp;quot; tasks - create a page, write to and read from a database, add a new field to this screen. These tasks have been done numerous times by numerous developers around the world in different flavours.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The straw that broke the camel&#x27;s back</title>
           <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>

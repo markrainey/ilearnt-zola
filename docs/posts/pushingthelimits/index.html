@@ -8,7 +8,7 @@
   <meta content="#da532c" name="msapplication-TileColor" />
 
 
-    <meta name="description" content="It can take one additional small thing to push something over the edge." />
+    <meta name="description" content="Going beyond what would normally be expected when coding" />
 
 
   
@@ -34,7 +34,7 @@
 
   <title>
     
-I Learnt | The straw that broke the camel&#x27;s back
+I Learnt | Pushing The Limits
 
   </title>
 
@@ -121,15 +121,15 @@ I Learnt | The straw that broke the camel&#x27;s back
 		</div>
         <article class="box">			
           <h1 class="title has-text-info-dark">
-            The straw that broke the camel&#x27;s back
+            Pushing The Limits
           </h1>
-          <p class="subtitle">It can take one additional small thing to push something over the edge.</p>
+          <p class="subtitle">Going beyond what would normally be expected when coding</p>
           <div class="columns is-multiline is-gapless">
             <div class="column is-8">
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2024-01-03">January 03, 2024</time></span>
+  <span><time datetime="2024-01-04">January 04, 2024</time></span>
 </span>
 
             </div>
@@ -139,11 +139,11 @@ I Learnt | The straw that broke the camel&#x27;s back
   <span class="icon">
     <i class="far fa-clock"></i>
   </span>
-  <span>2 min,</span>
+  <span>4 min,</span>
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>399 words</span>
+  <span>691 words</span>
 </span>
 
             </div>
@@ -162,6 +162,15 @@ I Learnt | The straw that broke the camel&#x27;s back
     </span>
   </a>
   
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/technology/">
+    <span class="icon-text has-text-grey">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>technology</span>
+    </span>
+  </a>
+  
 </p>
 
               
@@ -171,24 +180,23 @@ I Learnt | The straw that broke the camel&#x27;s back
             </div>
           </div>
           <div class="content mt-2">
-            <p>There is an idiom &quot;the straw that broke the camel's back&quot; which, according to Wikipedia, describes </p>
-<blockquote>
-<p>a minor or routine action that causes an unpredictably large and sudden reaction due of the cumulative effect of other small actions.</p>
-</blockquote>
+            <p>A lot of coding jobs can involve fairly &quot;normal&quot; tasks - create a page, write to and read from a database, add a new field to this screen. These tasks have been done numerous times by numerous developers around the world in different flavours.</p>
 <span id="continue-reading"></span>
-<p><img src="/posts/TheStraw.png" title="The Straw" class="mid-image"></img></p>
-<p>Seth Godin recently wrote an <a href="https://seths.blog/2023/12/x1000">article</a> about &quot;x1000&quot; where he gives examples of things which when they happen a few times are manageable but when they happen one thousand times causes pain. He writes about the volume of spam phone calls and also a more extreme one in the form of climate change:</p>
-<blockquote>
-<p>One freakish storm is something many economies and communities have a chance to recover from. But 1,000 days of weird weather is more than we can handle.</p>
-</blockquote>
-<p>Another <a href="https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking">article</a> writes about the concept of &quot;silent sacking&quot;. They propose that a company can change the conditions of work of someone to make them so unattractive that it effectively forces them to quit. They may be able to cope with a few changes but the accumulation of changes creates an environment they can no longer tolerate. (FYI I have no idea if that is happening at Amazon as they claim - I am just covering the concept).</p>
-<p>We have seen recently on our project where a number of small changes had a cumulative effect on the performance. It was not one thing but a series of unrelated changes, each impacting the performance a little that added up to a noticeable change. It took one of our engineers a week to work through them all and refactor them to restore performance.</p>
-<p>We can see it in children. They learn how to nudge their parents into submission by repeating actions or requests until the parent can take no more and either snaps or gives in. The single action or request has little effect but the repetition has an impact.</p>
-<p>It doesn't always have to be negative. Maybe we can make the world a better place by doing small actions that have a cumulative effect. Maybe it would then become the &quot;straw that fixed the camel's back&quot;?</p>
+<p>I came across someone who is absolutely pushing the limits of what is possible with C#. This <a href="https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/">article</a> describes how they wrote a simple game in C# and then through a number of more and more obscure approaches managed to get the size of the self contained application from an initial  64MB down to an incredible 2KB. </p>
+<p>I am never likely to need to use many, if any, of the techniques it documents but it is firstly an incredible bit of technical work to show what is possible and secondly a very well written article explaining each step involved and why it was done.</p>
+<p>In my first real job after university I was writing Pascal for a system that was used by public libraries all over Europe. The code would be compiled and then blown onto a physical prom pack that would then be slotted into a terminal to run the application. The application we produced had a number of different features and each library not only had their own combination of features but also their own localisation of the text.</p>
+<p>This was back in the early 1990s so it was unusual to have to support localisation at the time and it was a nightmare doing the builds and the testing as each was unique.</p>
+<p>Anyway, one day they told me they needed to fit a combination of features that were much larger than could fit on the prom pack. The prom pack could handle about 768KB but the code when compiled was about 1300KB. My job was to try and get it to fit.</p>
+<p><img src="/posts/PushingLimits.png" title="Pushing Limits" class="mid-image"></img></p>
+<p>The first step was to replace the original Pascal compiler with a compatible optimising compiler (Stony Brook). This had a whole set of different flags that claimed to produce smaller and/or faster code. Unfortunately some of them, or at least some of the combinations of them, were buggy and would cause crashes. However with a certain amount of trial and error I managed to get it to compile and reduce the size by a chunk.</p>
+<p>The next step was to go through the code and find ways to make it compile smaller. I found that the way it handled certain data structures could be tweaked to significantly reduce the code size. Along with a whole set of other changes I was getting closer to the target. I went through over 200k+ lines of code line by line and hand optimised it for speed. </p>
+<p>I got to the point where I was dreaming about it in my sleep.</p>
+<p>I got within about 30KB of the target when they decided that actually they didn't need all the features and I could stop optimising the code. I was glad to put that task behind me but also a little disappointed that I didn't quite hit the target.</p>
+<p>On a side note, I  found out that the designer of the Pascal language, Niklaus Wirth, passed away this week. His language, Pascal, set the basis for my career.</p>
+<p>Back on topic, the distributed ledger platform that we are developing at the moment is another example where it is going beyond the normal. Some of the things we have had to design and implement are definitely not your &quot;run of the mill&quot; code. Pretty much every task is different from every other task and involves working out new ways of doing things.</p>
+<p>There are definitely challenges in going beyond the normal - sometimes you don't even know if it is possible - but it is the challenge and the learning that can make things fun.</p>
 <p><strong>Links</strong></p>
-<p><a href="https://en.wikipedia.org/wiki/Straw_that_broke_the_camel%27s_back">Straw that broke the camel's back - Wikipedia</a></p>
-<p><a href="https://seths.blog/2023/12/x1000">x1000</a></p>
-<p><a href="https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking">Amazon's Silent Sacking</a></p>
+<p><a href="https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes">Building a self-contained game in C# under 2 kilobytes</a></p>
 
           </div>
         </article>
@@ -231,22 +239,14 @@ I Learnt | The straw that broke the camel&#x27;s back
         <nav class="level">
           
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;speedingupawindowspc&#x2F;">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;thestraw&#x2F;">
               <span class="icon mr-2">
                 <i class="fas fa-arrow-circle-left"></i>
               </span>
-              Speeding up Windows PC
+              The straw that broke the camel&#x27;s back
             </a>
           </div>
-           
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;pushingthelimits&#x2F;">
-              Pushing The Limits<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
-            </a>
-          </div>
-            
+             
         </nav>
       </div>
     </div>
