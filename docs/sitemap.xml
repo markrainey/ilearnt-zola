@@ -190,6 +190,9 @@
         <loc>https://ilearnt.com/categories/misc/page/2/</loc>
     </url>
     <url>
+        <loc>https://ilearnt.com/categories/misc/page/3/</loc>
+    </url>
+    <url>
         <loc>https://ilearnt.com/categories/obsidian/</loc>
     </url>
     <url>
@@ -969,6 +972,10 @@
     <url>
         <loc>https://ilearnt.com/posts/ohnosecond/</loc>
         <lastmod>2023-11-30</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/onelife/</loc>
+        <lastmod>2024-01-05</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/onlinesafetybull/</loc>
