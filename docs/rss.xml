@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Ambiphone</title>
+          <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/ambiphone/</link>
+          <guid>https://ilearnt.com/posts/ambiphone/</guid>
+          <description>&lt;p&gt;When I am working and need to focus I like to have music in the background.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>One Life</title>
           <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
