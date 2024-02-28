@@ -40,8 +40,16 @@ https://thenextweb.com/news/mikko-hypponen-5-biggest-ai-cybersecurity-threats-20
 https://www.youtube.com/watch?v=EyTeDaiUL6s
 https://event-driven.io/en/a_few_words_about_workaholism/
 https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights
-Wired UK
+Wired UK sign up
+(De)centralisation cycle
+Failures
+- Riding a bike
+- Learning a language
+David Kadavy newsletter
+https://mail.google.com/mail/u/0/?textfield=raineynet.com&select=http://mail.google.com/a/#label/Mailing+List/FMfcgzGwJcgmmZrZnXJmTrXjVZtHsKst
 
+
+https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology - self service library, Dad cashpoint
 ## Consider
 How I learnt...
 Write for family

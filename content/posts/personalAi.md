@@ -14,7 +14,7 @@ By now most people have tried or at least heard of ChatGPT. It is now relatively
 
 One free tool that makes this simpler is LM Studio. It is a desktop application that you can run locally on your machine. You download and then select whichever LLM (large language model) you want to use to run it. Don't worry, LLM basically means the brains and knowledge you want to use to ask questions.
 
-To install it, go to the LM Studio [website](lmstudio.ai) and download the version for the operating system you use (MacOS, Windows or Linux) and install it.
+To install it, go to [LM Studio](https://lmstudio.ai/) and download the version for the operating system you use (MacOS, Windows or Linux) and install it.
 
 Once it is installed, run the application.
 
