@@ -3,7 +3,7 @@ title="Podcasts with bookmarks"
 date=2023-04-27
 authors = ["Mark Rainey"]
 [taxonomies]
-categories=["podcasts "]
+categories=["podcast  "]
 tags=[]
 +++
 

@@ -220,10 +220,7 @@
         <loc>https://ilearnt.com/categories/podcast/page/5/</loc>
     </url>
     <url>
-        <loc>https://ilearnt.com/categories/podcasts/</loc>
-    </url>
-    <url>
-        <loc>https://ilearnt.com/categories/podcasts/page/1/</loc>
+        <loc>https://ilearnt.com/categories/podcast/page/6/</loc>
     </url>
     <url>
         <loc>https://ilearnt.com/categories/review/</loc>
@@ -1353,6 +1350,10 @@
     <url>
         <loc>https://ilearnt.com/posts/thejoyofreading/</loc>
         <lastmod>2023-11-24</lastmod>
+    </url>
+    <url>
+        <loc>https://ilearnt.com/posts/thekeepertest/</loc>
+        <lastmod>2024-04-05</lastmod>
     </url>
     <url>
         <loc>https://ilearnt.com/posts/thekubernetesbook/</loc>
