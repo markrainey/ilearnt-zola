@@ -8,7 +8,7 @@ categories=["work"]
 tags=[]
 +++
 
-It is that time of year where performance and salaries are reviewed. In my new role it is the first time I have been part of this. I came across a very timely [article](https://www.highlights.lornerubis.com/2015/08/the-netflix-keeper-test-and-the-courage-to-take-it/) that aligned nicely with one of the steps in our process.
+It is that time of year where performance and salaries are reviewed. In my new role it is the first time I have been part of this. I came across a very timely [article](https://www.highlights.lornerubis.com/2015/08/the-netflix-keeper-test-and-the-courage-to-take-it/) that aligned nicely with one of the steps in our process. 
 
 <!-- more -->
 
