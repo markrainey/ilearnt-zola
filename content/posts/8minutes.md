@@ -26,5 +26,6 @@ I also came across the following [video](https://www.youtube.com/watch?v=tX8TgVR
 
 __Links__
 
-[Building Better Bonds Through “The Eight-Minute Catch-Up”](https://simonsinek.com/stories/the-incredible-power-of-an-eight-minute-catch-up-with-a-friend)/
+[Building Better Bonds Through “The Eight-Minute Catch-Up”](https://simonsinek.com/stories/the-incredible-power-of-an-eight-minute-catch-up-with-a-friend)
+
 [Check in on those around you](https://www.youtube.com/watch?v=tX8TgVR33KM)
