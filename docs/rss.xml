@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The Cuckoo&#x27;s Klein Bottle</title>
+          <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/cuckooskleinbottle/</link>
+          <guid>https://ilearnt.com/posts/cuckooskleinbottle/</guid>
+          <description>&lt;p&gt;When I was at university, a long time ago, one of the books I really enjoyed was &amp;quot;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;dp&#x2F;1416507787&quot;&gt;The Cuckoo&#x27;s Egg&lt;&#x2F;a&gt;&amp;quot; by Clifford Stoll.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Missing images</title>
           <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>

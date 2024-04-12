@@ -8,7 +8,7 @@
   <meta content="#da532c" name="msapplication-TileColor" />
 
 
-    <meta name="description" content="The images on my blog all suddenly disappeared and I didn't know why" />
+    <meta name="description" content="The Cuckoo's Egg meets Acme Klein Bottles" />
 
 
   
@@ -34,7 +34,7 @@
 
   <title>
     
-I Learnt | Missing images
+I Learnt | The Cuckoo&#x27;s Klein Bottle
 
   </title>
 
@@ -121,15 +121,15 @@ I Learnt | Missing images
 		</div>
         <article class="box">			
           <h1 class="title has-text-info-dark">
-            Missing images
+            The Cuckoo&#x27;s Klein Bottle
           </h1>
-          <p class="subtitle">The images on my blog all suddenly disappeared and I didn&#x27;t know why</p>
+          <p class="subtitle">The Cuckoo&#x27;s Egg meets Acme Klein Bottles</p>
           <div class="columns is-multiline is-gapless">
             <div class="column is-8">
               
 <span class="icon-text has-text-grey">
   <span>Published on&nbsp;</span>
-  <span><time datetime="2024-04-10">April 10, 2024</time></span>
+  <span><time datetime="2024-04-12">April 12, 2024</time></span>
 </span>
 
             </div>
@@ -139,11 +139,11 @@ I Learnt | Missing images
   <span class="icon">
     <i class="far fa-clock"></i>
   </span>
-  <span>2 min,</span>
+  <span>3 min,</span>
   <span class="icon">
     <i class="fas fa-pencil-alt"></i>
   </span>
-  <span>389 words</span>
+  <span>496 words</span>
 </span>
 
             </div>
@@ -153,12 +153,12 @@ I Learnt | Missing images
 <p>
   Categories:
   
-  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/technology/">
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://ilearnt.com/categories/life/">
     <span class="icon-text has-text-grey">
       <span class="icon">
         <i class="fas fa-cube"></i>
       </span>
-      <span>technology</span>
+      <span>life</span>
     </span>
   </a>
   
@@ -171,30 +171,23 @@ I Learnt | Missing images
             </div>
           </div>
           <div class="content mt-2">
-            <p>I hadn't updated my blog for a while so I thought I would write a short post about <a href="/posts/thekeepertest/">The Keeper Test</a>. That is when all the images suddenly stopped displaying on this blog.</p>
+            <p>When I was at university, a long time ago, one of the books I really enjoyed was &quot;<a href="https://www.amazon.co.uk/dp/1416507787">The Cuckoo's Egg</a>&quot; by Clifford Stoll.</p>
 <span id="continue-reading"></span>
-<p>I happened to publish to Github Pages, where this is hosted, just as Github threw a wobbly. This meant the site partially built but never deployed. Once Github recovered it kept saying the Action job was queued but it was stuck and would not run again. I found out the solution to this was to make a minor change and commit that to create a new Action and that executed fine.</p>
-<p>At the same time I noticed that I was getting a message in Github Desktop that it was changing the line endings for some of the files. So to fix that I changed the line in .gitattributes from </p>
-<blockquote>
-<p>* text=auto</p>
-</blockquote>
-<p>to</p>
-<blockquote>
-<p>* text eol=lf</p>
-</blockquote>
-<p>I republished my site and left it at that. </p>
-<p>A few days later I decided to write another post and noticed that there were no images appearing on the deployed site. I used the developer tools in Chrome  to work out that they were being returned by the server but they looked wrong. </p>
-<p>I went into Github to examine them in the repository and it refused to preview the image files - but they looked fine locally on my machine. Strange.</p>
-<p>For my next step I tried to force the images to be resubmitted in case the wobble had caused some form of corruption. I forced all their timestamps to be updated using the DOS command: </p>
-<blockquote>
-<p>copy *.png+ /Y</p>
-</blockquote>
-<p>Committing these changes still made no difference.</p>
-<p>The only thing I could think to try was to revert the .gitattributes change - maybe it affected image files as well as the markdown files.</p>
-<p>And now all the images were uploaded correctly and now they appear again. </p>
-<p>Of course, it was user error on my part.</p>
-<p>I should have looked at that change more closely - the asterisk at the beginning means apply it to all files, not just the markdown files. I should have taken a moment to understand the change I was making and not just blindly make the change. I should have specified the .md file extension and potentially excluded .png files.</p>
-<p>It is through making mistakes that we learn.</p>
+<p>It tracks the true story of an astrophysicist at Berkeley who is asked to have a look at a minor discrepancy in some billing for computer time. Over the next couple of years he ends up tracking a hacker to Germany including the involvement of various US Government agencies. It reads like a thriller. Even though the technology aspect is a little old now - it is still well worth a read.</p>
+<p>I have read that book so many times that I had to buy a new copy just to get a new dustcover as the old one is so worn out.</p>
+<p>It turns out that the author of the book, Cliff Stoll, now has a side line business - <a href="https://www.kleinbottle.com/">Acme Klein Bottles</a> - and is selling Klein bottles that can be shipped around the world. A klein bottle is a one-sided surface zero volume bottle - basically think of a bottle where the neck is very long then passed back through the side of the bottle and out through the bottom.</p>
+<p>Anyway, I decided to order a &quot;Baby&quot; Klein bottle. As part of the ordering process it asks if there is any message if it is a gift. I said it was a gift for myself so surprise me!</p>
+<p>Within 24 hours I had received a personal email from Cliff reminiscing about the days of 300 baud modems and detailing how he was going to cycle to the post office later that day to post it. It also promised a subsequent email with photos of the bottle and it's packing etc.</p>
+<p>The promised email turned up shortly after with 19 photos! including pictures of the notes and pictures he had written/drawn on the bottle, invoice and box as well as pictures of the great man himself holding the bottle and the parcel.</p>
+<p><img src="/posts/StollKleinBottle1.png" title="In The Post" class="mid-image"></img></p>
+<p>The bottle arrived safely and now sits beside my laptop on my desk. The package also included some pages of notes about Klein bottles and various other things, an invoice with a message in a logarithmic spiral and an old IBM 360 control card with a personal message on the back to use as a bookmark for the book.</p>
+<p><img src="/posts/StollKleinBottle.png" title="Stoll Klein Bottle" class="mid-image"></img></p>
+<p>It would have been very easy for him to just take a bottle, package it and send it off. However he made the whole process and experience special - going way above and beyond - making it personal and something to remember and talk about.</p>
+<p>So, thank you Cliff for making it special and also for the book that started me on this.</p>
+<p>P.S I hope you enjoyed the eclipse!</p>
+<p><strong>Links</strong></p>
+<p><a href="https://www.kleinbottle.com">Acme Klein Bottle</a></p>
+<p><a href="https://www.amazon.co.uk/dp/1416507787">The Cuckoo's Egg</a></p>
 
           </div>
         </article>
@@ -237,22 +230,14 @@ I Learnt | Missing images
         <nav class="level">
           
           <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;8minutes&#x2F;">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;missingimages&#x2F;">
               <span class="icon mr-2">
                 <i class="fas fa-arrow-circle-left"></i>
               </span>
-              8 minutes
+              Missing images
             </a>
           </div>
-           
-          <div class="level-item has-text-centered">
-            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;ilearnt.com&#x2F;posts&#x2F;cuckooskleinbottle&#x2F;">
-              The Cuckoo&#x27;s Klein Bottle<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
-            </a>
-          </div>
-            
+             
         </nav>
       </div>
     </div>
