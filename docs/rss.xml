@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The One Percent Exercise</title>
+          <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/onepercentexercise/</link>
+          <guid>https://ilearnt.com/posts/onepercentexercise/</guid>
+          <description>&lt;p&gt;At a recent off-site we ran a simple group exercise that will hopefully make a big difference to the success of the company&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>The Cuckoo&#x27;s Klein Bottle</title>
           <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
