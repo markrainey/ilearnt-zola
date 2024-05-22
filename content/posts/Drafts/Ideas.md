@@ -56,3 +56,12 @@ Write for family
 What is tweetable?
 
 
+
+What -> Why -> Why Now -> Who -> How -> When -> What
+What needs to be done?
+Why does it need to be done?
+Why does it need to be done now?
+Who will do it?
+How will it be done?
+When is it done?
+What has been done?
