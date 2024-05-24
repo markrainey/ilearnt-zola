@@ -38,3 +38,4 @@ Once we had this, it was a relatively simple task to extract just those coloured
 
 In less than an hour we had identified the main streams of work and broken down the first of these streams into tasks. We will be doing the other streams over the next few days.
 
+Update: In a subsequent run through we added an additional note type - a question. If we needed clarification at some point we could capture it as a question and discuss it at the relevant point.
