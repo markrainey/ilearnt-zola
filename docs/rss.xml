@@ -7,7 +7,16 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://ilearnt.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Relive the Apollo 11 lunar landing</title>
+          <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+          <author>Mark Rainey</author>
+          <link>https://ilearnt.com/posts/lunarlanding/</link>
+          <guid>https://ilearnt.com/posts/lunarlanding/</guid>
+          <description>&lt;p&gt;I was not old enough to remember the first man on the moon - in fact I wasn&#x27;t even born until the following year.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Simple versus Complex</title>
           <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
